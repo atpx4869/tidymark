@@ -1,0 +1,4213 @@
+{
+  "bookmarks": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "dateAdded": 1520314952000,
+                  "id": "3",
+                  "index": 0,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "账号",
+                  "url": "https://free-ss.site/"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1664178876000,
+                          "id": "6",
+                          "index": 0,
+                          "parentId": "5",
+                          "syncing": true,
+                          "title": "deezertidal/shadowrocket-rules: 小火箭 shadowrocket 配置 模块 图文教程",
+                          "url": "https://github.com/deezertidal/shadowrocket-rules"
+                        },
+                        {
+                          "dateAdded": 1664178995000,
+                          "id": "7",
+                          "index": 1,
+                          "parentId": "5",
+                          "syncing": true,
+                          "title": "deezertidal/Surge_Module: Surge模块",
+                          "url": "https://github.com/deezertidal/Surge_Module"
+                        },
+                        {
+                          "dateAdded": 1655280218000,
+                          "id": "8",
+                          "index": 2,
+                          "parentId": "5",
+                          "syncing": true,
+                          "title": "Surge/Surge.conf at Master · Rabbit-Spec/Surge · GitHub",
+                          "url": "https://github.com/Rabbit-Spec/Surge/blob/Master/Surge.conf"
+                        },
+                        {
+                          "dateAdded": 1713456031199,
+                          "id": "9",
+                          "index": 3,
+                          "parentId": "5",
+                          "syncing": true,
+                          "title": "🌐 ASN · VirgilClyne/GetSomeFries Wiki",
+                          "url": "https://github.com/VirgilClyne/GetSomeFries/wiki/%F0%9F%8C%90-ASN"
+                        }
+                      ],
+                      "dateAdded": 1684766740516,
+                      "dateGroupModified": 1713456031199,
+                      "id": "5",
+                      "index": 0,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "surge"
+                    },
+                    {
+                      "dateAdded": 1614224419000,
+                      "id": "10",
+                      "index": 1,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "碧海免费节点池",
+                      "url": "https://bihai.cf/"
+                    },
+                    {
+                      "dateAdded": 1636342882000,
+                      "id": "11",
+                      "index": 2,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "首页",
+                      "url": "https://pay.qcv2ray.xyz/#/dashboard"
+                    },
+                    {
+                      "dateAdded": 1636452996000,
+                      "dateLastUsed": 1697639301831,
+                      "id": "12",
+                      "index": 3,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "几鸡-学习助理",
+                      "url": "https://a.luxury/user"
+                    },
+                    {
+                      "dateAdded": 1642989273000,
+                      "id": "13",
+                      "index": 4,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "bityun.org",
+                      "url": "https://bityun.org/#/subscribe"
+                    },
+                    {
+                      "dateAdded": 1650110396000,
+                      "id": "14",
+                      "index": 5,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "在线订阅转换工具",
+                      "url": "https://sub.v1.mk/"
+                    },
+                    {
+                      "dateAdded": 1653958738000,
+                      "dateLastUsed": 1709007360786,
+                      "id": "15",
+                      "index": 6,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "FlowerCloud",
+                      "url": "https://flower.yt/clientarea.php"
+                    },
+                    {
+                      "dateAdded": 1664159361000,
+                      "dateLastUsed": 1690261868480,
+                      "id": "16",
+                      "index": 7,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "GLaDOS",
+                      "url": "https://glados.rocks/console"
+                    },
+                    {
+                      "dateAdded": 1682573291000,
+                      "id": "17",
+                      "index": 8,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "つつの订阅转换 · 简单的黑",
+                      "url": "https://b.sub.tsutsu.one/"
+                    },
+                    {
+                      "dateAdded": 1682579923000,
+                      "id": "18",
+                      "index": 9,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "账号概览 - 903323244@qq.com - X-Air控制台",
+                      "url": "https://temp-linshidizhi-1.very-fast.net:666/user"
+                    },
+                    {
+                      "dateAdded": 1682579949000,
+                      "id": "19",
+                      "index": 10,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "XFLTD",
+                      "url": "https://xftld.org/index.php#/dashboard"
+                    },
+                    {
+                      "dateAdded": 1682582427000,
+                      "id": "20",
+                      "index": 11,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "自建trojan服务器教程 · Alvin9999/new-pac Wiki",
+                      "url": "https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAtrojan%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B"
+                    },
+                    {
+                      "dateAdded": 1691472098638,
+                      "id": "21",
+                      "index": 12,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "Moav - Free Porn Videos,在線免費看片",
+                      "url": "https://moav.com/"
+                    },
+                    {
+                      "dateAdded": 1697558819592,
+                      "id": "22",
+                      "index": 13,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "我的账号 — FASTLINK",
+                      "url": "https://fastlink.ws/user/profile"
+                    },
+                    {
+                      "dateAdded": 1702481420580,
+                      "id": "23",
+                      "index": 14,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "Academy City Airport",
+                      "url": "https://www.aca.best/#/dashboard"
+                    },
+                    {
+                      "dateAdded": 1711186677065,
+                      "dateLastUsed": 1747983063557,
+                      "id": "24",
+                      "index": 15,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "仪表盘 | Lyrebird",
+                      "url": "https://dash.lyrebird.cloud/#/dashboard"
+                    },
+                    {
+                      "dateAdded": 1730792631097,
+                      "dateLastUsed": 1732787031187,
+                      "id": "25",
+                      "index": 16,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "山水云",
+                      "url": "https://sy.wgkzg.com/#/dashboard"
+                    },
+                    {
+                      "dateAdded": 1733312004009,
+                      "dateLastUsed": 1733760211653,
+                      "id": "26",
+                      "index": 17,
+                      "parentId": "4",
+                      "syncing": true,
+                      "title": "首页 — iKuuu VPN",
+                      "url": "https://ikuuu.one/user"
+                    }
+                  ],
+                  "dateAdded": 1684766740516,
+                  "dateGroupModified": 1733312004009,
+                  "id": "4",
+                  "index": 1,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "机场"
+                },
+                {
+                  "dateAdded": 1688010229459,
+                  "dateLastUsed": 1714734262982,
+                  "id": "27",
+                  "index": 2,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "Türkiye'nin En Popüler, Oyun Epin Satış, Digital Kod Alışveriş Sitesi",
+                  "url": "https://www.oyunfor.com/"
+                },
+                {
+                  "dateAdded": 1691117003899,
+                  "dateLastUsed": 1705981539342,
+                  "id": "28",
+                  "index": 3,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "YFamily 模块 插件 重写 覆写 脚本 解锁 去广告",
+                  "url": "https://yfamily.vercel.app/"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1705590679573,
+                      "id": "30",
+                      "index": 0,
+                      "parentId": "29",
+                      "syncing": true,
+                      "title": "haiibo/OpenWrt: 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等",
+                      "url": "https://github.com/haiibo/OpenWrt?tab=readme-ov-file"
+                    }
+                  ],
+                  "dateAdded": 1705590688165,
+                  "dateGroupModified": 1705590688165,
+                  "id": "29",
+                  "index": 4,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "openwrt"
+                },
+                {
+                  "dateAdded": 1714837410857,
+                  "id": "31",
+                  "index": 5,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "speed.cloudflare 测速",
+                  "url": "https://speed.cloudflare.com/"
+                },
+                {
+                  "dateAdded": 1755503786865,
+                  "id": "32",
+                  "index": 6,
+                  "parentId": "2",
+                  "syncing": true,
+                  "title": "beck-8/subs-check: 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具",
+                  "url": "https://github.com/beck-8/subs-check"
+                }
+              ],
+              "dateAdded": 1684766740513,
+              "dateGroupModified": 1755503792719,
+              "id": "2",
+              "index": 0,
+              "parentId": "1",
+              "syncing": true,
+              "title": "1.科学"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1672109880000,
+                          "id": "36",
+                          "index": 0,
+                          "parentId": "35",
+                          "syncing": true,
+                          "title": "利用vercel零成本搭建oneindex网盘 – 青云博客",
+                          "url": "https://blog.qinglin.co/2562.html"
+                        },
+                        {
+                          "dateAdded": 1672110654000,
+                          "id": "37",
+                          "index": 1,
+                          "parentId": "35",
+                          "syncing": true,
+                          "title": "jzrm's OneDrive",
+                          "url": "https://onedrive-vercel-index-001.vercel.app/zh-CN/"
+                        }
+                      ],
+                      "dateAdded": 1684766740513,
+                      "dateGroupModified": 1684766740513,
+                      "id": "35",
+                      "index": 0,
+                      "parentId": "34",
+                      "syncing": true,
+                      "title": "onedrive"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1577063379000,
+                          "id": "39",
+                          "index": 0,
+                          "parentId": "38",
+                          "syncing": true,
+                          "title": "文叔叔 - 传文件，找文叔叔（大文件、永不限速）",
+                          "url": "https://www.wenshushu.cn/my"
+                        },
+                        {
+                          "dateAdded": 1683337090000,
+                          "id": "40",
+                          "index": 1,
+                          "parentId": "38",
+                          "syncing": true,
+                          "title": "SendFile 临时网盘",
+                          "url": "https://www.sendfile.cn/"
+                        },
+                        {
+                          "dateAdded": 1683337094000,
+                          "id": "41",
+                          "index": 2,
+                          "parentId": "38",
+                          "syncing": true,
+                          "title": "Wormhole - 简单、私密的文件共享",
+                          "url": "https://wormhole.app/"
+                        },
+                        {
+                          "dateAdded": 1683337096000,
+                          "id": "42",
+                          "index": 3,
+                          "parentId": "38",
+                          "syncing": true,
+                          "title": "钛盘 - 超好用的文件中转站",
+                          "url": "https://tmp.link/"
+                        }
+                      ],
+                      "dateAdded": 1684766740513,
+                      "dateGroupModified": 1684766740513,
+                      "id": "38",
+                      "index": 1,
+                      "parentId": "34",
+                      "syncing": true,
+                      "title": "临时网盘"
+                    },
+                    {
+                      "dateAdded": 1711510761290,
+                      "id": "43",
+                      "index": 2,
+                      "parentId": "34",
+                      "syncing": true,
+                      "title": "云盘账号 - AliyunDrive Pro",
+                      "url": "https://alipan.pro/user/accounts"
+                    }
+                  ],
+                  "dateAdded": 1684766740513,
+                  "dateGroupModified": 1711510761290,
+                  "id": "34",
+                  "index": 0,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "网盘"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1637547935000,
+                      "id": "45",
+                      "index": 0,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "阿里盘搜 - 阿里云盘资源搜索神器",
+                      "url": "https://pan.alipanso.com/"
+                    },
+                    {
+                      "dateAdded": 1637547942000,
+                      "id": "46",
+                      "index": 1,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "网盘搜索，就用阿里盘搜搜索 - 最好用的阿里网盘搜索引擎",
+                      "url": "https://www.alipansou.com/"
+                    },
+                    {
+                      "dateAdded": 1646805034000,
+                      "id": "47",
+                      "index": 2,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "urllib.request.urlretrieve()函数 - PRO_Z - 博客园",
+                      "url": "https://www.cnblogs.com/nbk-zyc/p/13151402.html"
+                    },
+                    {
+                      "dateAdded": 1646806528000,
+                      "id": "48",
+                      "index": 3,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "python 网络文档下载 - 搜索",
+                      "url": "https://cn.bing.com/search?q=python++%E7%BD%91%E7%BB%9C%E6%96%87%E6%A1%A3%E4%B8%8B%E8%BD%BD&form=QBLH&sp=-1&pq=python+%E7%BD%91%E7%BB%9C%E6%96%87%E6%A1%A3&sc=0-11&qs=n&sk=&cvid=0BDFC91255CE4D3F956DDC702EFF0FBB"
+                    },
+                    {
+                      "dateAdded": 1646877639000,
+                      "id": "49",
+                      "index": 4,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "GitHub - jiguang123/Web-Spider-and-Data-Analysis: Python3网络爬虫实战入门篇及各种中小型爬虫项目集合~",
+                      "url": "https://github.com/jiguang123/Web-Spider-and-Data-Analysis"
+                    },
+                    {
+                      "dateAdded": 1646890614000,
+                      "id": "50",
+                      "index": 5,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "chromedriver.storage.googleapis.com/index.html?path=99.0.4844.51/",
+                      "url": "http://chromedriver.storage.googleapis.com/index.html?path=99.0.4844.51/"
+                    },
+                    {
+                      "dateAdded": 1646895113000,
+                      "id": "51",
+                      "index": 6,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "_(:3」」还是被发现了",
+                      "url": "https://www.zhaolog.com/2020/08/05/26485.html"
+                    },
+                    {
+                      "dateAdded": 1651653470000,
+                      "id": "52",
+                      "index": 7,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "奈斯搜索 - 资源超丰富的阿里云盘资源搜索网站！",
+                      "url": "https://www.niceso.fun/"
+                    },
+                    {
+                      "dateAdded": 1651653481000,
+                      "dateLastUsed": 1702220239496,
+                      "id": "53",
+                      "index": 8,
+                      "parentId": "44",
+                      "syncing": true,
+                      "title": "小纸条-开放纯粹的资源网站",
+                      "url": "https://u.gitcafe.net/"
+                    }
+                  ],
+                  "dateAdded": 1684766740513,
+                  "dateGroupModified": 1684766740513,
+                  "id": "44",
+                  "index": 1,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "搜索"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1636681662000,
+                          "id": "56",
+                          "index": 0,
+                          "parentId": "55",
+                          "syncing": true,
+                          "title": "Win11主题 - Win11电脑主题 - Win11桌面主题 - 致美化",
+                          "url": "https://zhutix.com/tag/win11-zhuti/"
+                        },
+                        {
+                          "dateAdded": 1636682133000,
+                          "id": "57",
+                          "index": 1,
+                          "parentId": "55",
+                          "syncing": true,
+                          "title": "Arc X 豪华版 Win10主题+Win11主题 - 桌面主题 - 致美化 - 漫锋网",
+                          "url": "https://zhutix.com/pc/arc-x-s/"
+                        }
+                      ],
+                      "dateAdded": 1684766740514,
+                      "dateGroupModified": 1684766740514,
+                      "id": "55",
+                      "index": 0,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "美化"
+                    },
+                    {
+                      "dateAdded": 1497231988000,
+                      "dateLastUsed": 1736261155113,
+                      "id": "58",
+                      "index": 1,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "Windows10 论坛 - 远景论坛 - 微软极客社区",
+                      "url": "http://bbs.pcbeta.com/forum.php?mod=forumdisplay&fid=548&page=1"
+                    },
+                    {
+                      "dateAdded": 1606014748000,
+                      "id": "59",
+                      "index": 2,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "专注于Win7 - 致力于做最好用的win7系统【吻妻官网】",
+                      "url": "http://www.newxitong.com/"
+                    },
+                    {
+                      "dateAdded": 1606014993000,
+                      "dateLastUsed": 1735261157492,
+                      "id": "60",
+                      "index": 3,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "windows工具库",
+                      "url": "http://rrkee.com/microsoft/"
+                    },
+                    {
+                      "dateAdded": 1683766346000,
+                      "id": "61",
+                      "index": 4,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "MSDN系统库－致力于原版windows生态服务",
+                      "url": "https://www.xitongku.com/"
+                    },
+                    {
+                      "dateAdded": 1635659501000,
+                      "id": "62",
+                      "index": 5,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "HelloWindows.cn – 精校 完整 极致 Windows系统下载仓储站",
+                      "url": "https://hellowindows.cn/"
+                    },
+                    {
+                      "dateAdded": 1704988418133,
+                      "id": "63",
+                      "index": 6,
+                      "parentId": "54",
+                      "syncing": true,
+                      "title": "atpx4869/LKY_OfficeTools: 一键自动化 下载、安装、激活 Office 的利器。",
+                      "url": "https://github.com/atpx4869/LKY_OfficeTools"
+                    }
+                  ],
+                  "dateAdded": 1684766740514,
+                  "dateGroupModified": 1704988418133,
+                  "id": "54",
+                  "index": 2,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "装机"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1616478438000,
+                      "id": "65",
+                      "index": 0,
+                      "parentId": "64",
+                      "syncing": true,
+                      "title": "阿虚同学的储存间",
+                      "url": "http://axutongxue.com/"
+                    },
+                    {
+                      "dateAdded": 1583833624000,
+                      "id": "66",
+                      "index": 1,
+                      "parentId": "64",
+                      "syncing": true,
+                      "title": "阿虚同学的储物间",
+                      "url": "http://kyon945.ys168.com/"
+                    },
+                    {
+                      "dateAdded": 1636606706000,
+                      "id": "67",
+                      "index": 2,
+                      "parentId": "64",
+                      "syncing": true,
+                      "title": "KinhDown - 百度云盘在线解析|百度网盘在线解析|百度云在线解析|百度云盘直链解析|百度网盘直链解析|百度云直链解析|百度云盘获取直链|百度网盘获取直链|百度云获取直链|百度云盘解析|百度网盘解析|百度云解析|百度云盘分享链接在线解析|百度网盘分享链接在线解析|百度云分享链接在线解析|百度云盘解析网页版|百度网盘解析网页版|百度云解析网页版|卢|本|伟|资|源|暴|简|小|易|D|U|P|a|n|d|o|w|n|l|o|a|d复|刻|版|助|手|油|猴|脚|高|速|本|毒|工具|工|具|百|度|云|网|盘|解|析|获|取|直|链|下|载|PD|PDD|PanDown|PanDownLoad|PanDownLoad在线解析|PanDownLoad网页版在线解析|PanDownLoad网页版|Pandownload 复刻版|Pandownload复刻版|复刻版|百毒云盘在线解析|百毒网盘在线解析|百毒云在线解析|百毒|百度云盘不限速解析|百度网盘不限速解析|百度云不限速解析|速盘-SpeedPan|SpeedPan|Proxyee Down|ProxyeeDown|油猴脚本|简易下载助手|简易下载助手油猴脚本|简易下载助手脚本|简易下载|度盘直链解析|度盘在线解析|度盘在线解析|度盘在线解析|毒盘在线解析|毒盘在线解析|毒盘在线解析|暴力猴|简易下载助手暴力猴脚本|油小猴|网盘直链下载助手|直链下载助手|下载助手|助手|高速下载|高速|DUPAN.CC|DUPAN|CC|卢本伟|PanDownLoad卢本伟|PanDownLoad 卢本伟|百度云盘资源在线解析|百度网盘资源在线解析|百度云资源在线解析|百度云盘资源解析|百度网盘资源解析|百度云资源解析",
+                      "url": "https://baidu.kinh.cc/?Type=FileList"
+                    },
+                    {
+                      "dateAdded": 1723980247714,
+                      "dateLastUsed": 1735261139777,
+                      "id": "68",
+                      "index": 3,
+                      "parentId": "64",
+                      "syncing": true,
+                      "title": "0DayDown - 关注资讯",
+                      "url": "https://www.0daydown.com/"
+                    }
+                  ],
+                  "dateAdded": 1684766740514,
+                  "dateGroupModified": 1725414246133,
+                  "id": "64",
+                  "index": 3,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "下载"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1641697453000,
+                      "id": "70",
+                      "index": 0,
+                      "parentId": "69",
+                      "syncing": true,
+                      "title": "电影先生 - 聚合全网高清影视在线观看、下载",
+                      "url": "http://dianying.im/"
+                    }
+                  ],
+                  "dateAdded": 1684766740514,
+                  "dateGroupModified": 1684766740514,
+                  "id": "69",
+                  "index": 4,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "观影"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1673016417000,
+                      "id": "72",
+                      "index": 0,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "Docker 搭建自动学习强国 | 我心永恒的小站",
+                      "url": "https://wxyhgk.com/article/docker-xxqg"
+                    },
+                    {
+                      "dateAdded": 1676386932000,
+                      "id": "73",
+                      "index": 1,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "隶笔难书",
+                      "url": "https://waite.wang/"
+                    },
+                    {
+                      "dateAdded": 1678513082000,
+                      "dateLastUsed": 1720433099895,
+                      "id": "74",
+                      "index": 2,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "bujj博客",
+                      "url": "https://www.bujj.org/"
+                    },
+                    {
+                      "dateAdded": 1678513478000,
+                      "id": "75",
+                      "index": 3,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "Linmi - 探索未知，沉淀新知，迭代认知。",
+                      "url": "https://linmi.cc/"
+                    },
+                    {
+                      "dateAdded": 1681793951000,
+                      "id": "76",
+                      "index": 4,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "国区使用土耳其iCloud服务，手把手保姆级上车教程 - 飞书云文档",
+                      "url": "https://btsogiwudc.feishu.cn/docx/CgoJdHyWKopl3UxV12GcG3psnjf"
+                    },
+                    {
+                      "dateAdded": 1681865901000,
+                      "id": "77",
+                      "index": 5,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "EwingYangs/awesome-open-gpt: Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+                      "url": "https://github.com/EwingYangs/awesome-open-gpt"
+                    },
+                    {
+                      "dateAdded": 1682048616000,
+                      "id": "78",
+                      "index": 6,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "1Password Promo Code - 50% OFF Voucher On April 2023",
+                      "url": "https://www.newcoupons.info/1password-coupon-promo-code/"
+                    },
+                    {
+                      "dateAdded": 1682058640000,
+                      "id": "79",
+                      "index": 7,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "rime-auto-deploy/WINDOWS_README.md at main · Mark24Code/rime-auto-deploy",
+                      "url": "https://github.com/Mark24Code/rime-auto-deploy/blob/main/WINDOWS_README.md"
+                    },
+                    {
+                      "dateAdded": 1682702804000,
+                      "id": "80",
+                      "index": 8,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "CJReinforce/PikPakAutoOfflineDownloadBot: 自动PikPak离线下载+aria2下载+释放网盘空间的TG机器人",
+                      "url": "https://github.com/CJReinforce/PikPakAutoOfflineDownloadBot"
+                    },
+                    {
+                      "dateAdded": 1683335724000,
+                      "id": "81",
+                      "index": 9,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "简单实现扫一扫连接WiFi - Kali's Blog",
+                      "url": "https://blog.bbskali.cn/3214.html"
+                    },
+                    {
+                      "dateAdded": 1684222268000,
+                      "id": "82",
+                      "index": 10,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
+                      "url": "https://learnxinyminutes.com/"
+                    },
+                    {
+                      "dateAdded": 1673243762000,
+                      "id": "83",
+                      "index": 11,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "醉里挑灯看剑",
+                      "url": "https://ainil.top/"
+                    },
+                    {
+                      "dateAdded": 1606014819000,
+                      "id": "84",
+                      "index": 12,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "未来时光机 @ 不老歌 - 记录与分享",
+                      "url": "http://bulaoge.net/?atpx"
+                    },
+                    {
+                      "dateAdded": 1606014748000,
+                      "id": "85",
+                      "index": 13,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "本站handsome主题美化记录 - 云梦仙",
+                      "url": "https://5ir.org/archives/14.html"
+                    },
+                    {
+                      "dateAdded": 1589200962000,
+                      "id": "86",
+                      "index": 14,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "软件下载 | 我爱分享网",
+                      "url": "http://www.zhanshaoyi.com/rjxz.html"
+                    },
+                    {
+                      "dateAdded": 1587445892000,
+                      "id": "87",
+                      "index": 15,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "马小帮 | 专注于互联网科技经验分享！",
+                      "url": "https://www.maxiaobang.com/"
+                    },
+                    {
+                      "dateAdded": 1572234218000,
+                      "id": "88",
+                      "index": 16,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "Rat's Blog - 相逢的人会再相逢",
+                      "url": "https://www.moerats.com/"
+                    },
+                    {
+                      "dateAdded": 1674016083000,
+                      "id": "89",
+                      "index": 17,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "V2EX",
+                      "url": "https://www.v2ex.com/"
+                    },
+                    {
+                      "dateAdded": 1636608910000,
+                      "id": "90",
+                      "index": 18,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "Chuanrui の 初见之旅-心若浮沉，浅笑安然",
+                      "url": "http://blog.1314.cool/"
+                    },
+                    {
+                      "dateAdded": 1712127699138,
+                      "id": "91",
+                      "index": 19,
+                      "parentId": "71",
+                      "syncing": true,
+                      "title": "如何复刻本网站，零氪快速建博客 | Cali Castle",
+                      "url": "https://cali.so/blog/guide-for-cloning-my-site#c39ca080a772"
+                    }
+                  ],
+                  "dateAdded": 1684766740514,
+                  "dateGroupModified": 1712127699138,
+                  "id": "71",
+                  "index": 5,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "博客"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1626328118000,
+                      "id": "93",
+                      "index": 0,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准云",
+                      "url": "https://bz.zhenggui.vip/"
+                    },
+                    {
+                      "dateAdded": 1644301443000,
+                      "id": "94",
+                      "index": 1,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "搜索页_标准网",
+                      "url": "https://www.biaozhun.org/plus/search.php"
+                    },
+                    {
+                      "dateAdded": 1644301460000,
+                      "id": "95",
+                      "index": 2,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "国家标准网-国家标准免费下载-国标下载",
+                      "url": "http://www.biaozhun8.cn/"
+                    },
+                    {
+                      "dateAdded": 1644301488000,
+                      "id": "96",
+                      "index": 3,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "食品伙伴网_（原食品伴侣网）_关注食品安全_探讨食品技术_烟台富美特信息科技",
+                      "url": "http://www.foodmate.net/"
+                    },
+                    {
+                      "dateAdded": 1646804302000,
+                      "id": "97",
+                      "index": 4,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "湖北省标准化与质量研究院",
+                      "url": "http://www.hbdls.org.cn/officialWebFront#/index"
+                    },
+                    {
+                      "dateAdded": 1646807768000,
+                      "id": "98",
+                      "index": 5,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "湖北数字标准馆",
+                      "url": "http://www.hbdls.org.cn/officialWebFront#/DigitStandardLibrary"
+                    },
+                    {
+                      "dateAdded": 1657247371000,
+                      "id": "99",
+                      "index": 6,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "规范网 - 标准分享、标准规范下载平台",
+                      "url": "https://www.guifan.net/"
+                    },
+                    {
+                      "dateAdded": 1676615754000,
+                      "id": "100",
+                      "index": 7,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "国家标准全文公开",
+                      "url": "https://openstd.samr.gov.cn/bzgk/gb/index"
+                    },
+                    {
+                      "dateAdded": 1676615363000,
+                      "id": "101",
+                      "index": 8,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准下载网 | 国家标准下载,行业标准下载,图集下载,永久免费,免注册-www.biao-zhun.cn",
+                      "url": "https://www.biao-zhun.cn/"
+                    },
+                    {
+                      "dateAdded": 1586487263000,
+                      "id": "102",
+                      "index": 9,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准查新报告 新标网 /",
+                      "url": "https://bz.pinzhi.top/std/list"
+                    },
+                    {
+                      "dateAdded": 1586488115000,
+                      "id": "103",
+                      "index": 10,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准有效性确认",
+                      "url": "http://www.stdinfo.org.cn/membercms/html/information!generatePage.action?id=402881e641ddeb020141de002de90056&ouidop=402881b436e7105a0136e80033430002"
+                    },
+                    {
+                      "dateAdded": 1609140078000,
+                      "id": "104",
+                      "index": 11,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准网 | biaozhun.org",
+                      "url": "https://www.biaozhun.org/"
+                    },
+                    {
+                      "dateAdded": 1618814534000,
+                      "id": "105",
+                      "index": 12,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "家具标准网-家具笔记_为家具质量提升提供知识动力",
+                      "url": "http://www.jiajubiaozhun.com/"
+                    },
+                    {
+                      "dateAdded": 1567580157000,
+                      "id": "106",
+                      "index": 13,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "WDFXW文档分享网–免费标准下载文档",
+                      "url": "http://www.wdfxw.net/"
+                    },
+                    {
+                      "dateAdded": 1567780461000,
+                      "id": "107",
+                      "index": 14,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准检索",
+                      "url": "http://www.bz100.cn/bzquery/search/standard!searchAdvanceCompass.action?ouidop=402881b436e7105a0136e80033430002"
+                    },
+                    {
+                      "dateAdded": 1567780723000,
+                      "id": "108",
+                      "index": 15,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准信息查询-国家标准化管理委员会",
+                      "url": "http://std.sacinfo.org.cn/home/query?stdCode=36246"
+                    },
+                    {
+                      "dateAdded": 1567753154000,
+                      "id": "109",
+                      "index": 16,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "标准文献数据库",
+                      "url": "http://www.zjsis.com/DataCenter/Standard/StdSearch.aspx?Token=$Token$&First=First"
+                    },
+                    {
+                      "dateAdded": 1567825584000,
+                      "id": "110",
+                      "index": 17,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "基本检索_标准下载、标准查询、标准阅读_中国标准在线服务网",
+                      "url": "https://www.spc.org.cn/basicsearch"
+                    },
+                    {
+                      "dateAdded": 1567580115000,
+                      "id": "111",
+                      "index": 18,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "国家标准全文公开",
+                      "url": "http://openstd.samr.gov.cn/bzgk/gb/"
+                    },
+                    {
+                      "dateAdded": 1528683570000,
+                      "id": "112",
+                      "index": 19,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "ChinaGB国家标准频道_中国最大的标准咨询服务网站",
+                      "url": "http://www.chinagb.org/"
+                    },
+                    {
+                      "dateAdded": 1693387588935,
+                      "id": "113",
+                      "index": 20,
+                      "parentId": "92",
+                      "syncing": true,
+                      "title": "收好这几个标准查新网站，以后标准下载不求人 - 知乎",
+                      "url": "https://zhuanlan.zhihu.com/p/550292286"
+                    }
+                  ],
+                  "dateAdded": 1684766740515,
+                  "dateGroupModified": 1693387588935,
+                  "id": "92",
+                  "index": 6,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "标准"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1650368555000,
+                      "dateLastUsed": 1702396715623,
+                      "id": "115",
+                      "index": 0,
+                      "parentId": "114",
+                      "syncing": true,
+                      "title": "iconfont-阿里巴巴矢量图标库",
+                      "url": "https://www.iconfont.cn/"
+                    },
+                    {
+                      "dateAdded": 1698503798361,
+                      "dateLastUsed": 1708350709303,
+                      "id": "116",
+                      "index": 1,
+                      "parentId": "114",
+                      "syncing": true,
+                      "title": "GitHub - xushier/HD-Icons: 高清仪表盘图标（1024x1024 分辨率）",
+                      "url": "https://github.com/xushier/HD-Icons"
+                    },
+                    {
+                      "dateAdded": 1704928302940,
+                      "id": "117",
+                      "index": 2,
+                      "parentId": "114",
+                      "syncing": true,
+                      "title": "免费矢量图标——下载1,327,800个图标（SVG、PNG）",
+                      "url": "https://igoutu.cn/icons"
+                    }
+                  ],
+                  "dateAdded": 1684766740515,
+                  "dateGroupModified": 1704928302940,
+                  "id": "114",
+                  "index": 7,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "图标"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1675996254000,
+                      "id": "119",
+                      "index": 0,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "认可的检测/校准实验室",
+                      "url": "https://las.cnas.org.cn/LAS_FQ/publish/externalQueryL1.jsp"
+                    },
+                    {
+                      "dateAdded": 1615514977000,
+                      "id": "120",
+                      "index": 1,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "湖北省质检院检测标准管理系统",
+                      "url": "http://172.16.100.72:8080/Customer/indexCustomer.aspx"
+                    },
+                    {
+                      "dateAdded": 1606015000000,
+                      "id": "121",
+                      "index": 2,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "中国企业资质证书查询平台",
+                      "url": "http://prove.ccig.co/"
+                    },
+                    {
+                      "dateAdded": 1606015000000,
+                      "id": "122",
+                      "index": 3,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "CNAS有效机构查询",
+                      "url": "https://las.cnas.org.cn/LAS/publish/externalQueryL1.jsp"
+                    },
+                    {
+                      "dateAdded": 1548989463000,
+                      "id": "123",
+                      "index": 4,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "查询",
+                      "url": "http://122.188.104.148:9400/zjy/index.aspx?user=\\57555\\63627\\66551"
+                    },
+                    {
+                      "dateAdded": 1533607664000,
+                      "dateLastUsed": 1729065228744,
+                      "id": "124",
+                      "index": 5,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "彭林浩，欢迎您使用本系统",
+                      "url": "http://192.168.3.231/Welcome"
+                    },
+                    {
+                      "dateAdded": 1503901494000,
+                      "id": "125",
+                      "index": 6,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "湖北省产品质量监督检验研究院",
+                      "url": "http://172.16.100.12:7001/defaultroot/desktop.jsp"
+                    },
+                    {
+                      "dateAdded": 1635591131000,
+                      "id": "126",
+                      "index": 7,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "CNAS实验室检验机构认可业务管理系统",
+                      "url": "https://las.cnas.org.cn/LAS/index.jsp"
+                    },
+                    {
+                      "dateAdded": 1685606034551,
+                      "id": "127",
+                      "index": 8,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "4 million+ Stunning Free Images to Use Anywhere - Pixabay - Pixabay",
+                      "url": "https://pixabay.com/"
+                    },
+                    {
+                      "dateAdded": 1698378138530,
+                      "id": "128",
+                      "index": 9,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "(12 封私信 / 80 条消息) 有哪些堪称神器的工具或软件？ - 知乎",
+                      "url": "https://www.zhihu.com/question/20772002/answer/3243832222"
+                    },
+                    {
+                      "dateAdded": 1705330746747,
+                      "id": "129",
+                      "index": 10,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "中国儿童学习桌椅行业现状深度与发展前景报告（2023-2030年）|家具|波特|市场分析_网易订阅",
+                      "url": "https://www.163.com/dy/article/IA87A1P90518H9Q1.html"
+                    },
+                    {
+                      "dateAdded": 1705330784535,
+                      "id": "130",
+                      "index": 11,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "家长注意！上海检出18批次不合格儿童家具，这个“熟悉”的品牌又上榜了→",
+                      "url": "https://baijiahao.baidu.com/s?id=1677558380406204183&wfr=spider&for=pc"
+                    },
+                    {
+                      "dateAdded": 1711627338529,
+                      "id": "131",
+                      "index": 12,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "在线做图|在线白板|在线画图_VisionOn_新一代轻量在线图形工具",
+                      "url": "https://pub.visionon.cn/"
+                    },
+                    {
+                      "dateAdded": 1716105965092,
+                      "id": "132",
+                      "index": 13,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "高清学士学位证书模板-证书模板-工图网",
+                      "url": "https://www.900ppt.com/zhengshumuban/80a18f74283c174662337.html"
+                    },
+                    {
+                      "dateAdded": 1716105976431,
+                      "id": "133",
+                      "index": 14,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "学位证制作",
+                      "url": "https://www.900ppt.com/zhuanti/28774.html"
+                    },
+                    {
+                      "dateAdded": 1729060531832,
+                      "id": "134",
+                      "index": 15,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "实验室知识问答和资料下载-实验室工具与标准-实验室资源网",
+                      "url": "https://www.labr.cc/"
+                    },
+                    {
+                      "dateAdded": 1730101549333,
+                      "id": "135",
+                      "index": 16,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "基于儿童高椅质量与标准现状的思考 - 基于儿童高椅质量与标准现状的思考",
+                      "url": "https://qikan.cqvip.com/Qikan/Article/ReadIndex?id=671820357&info=TB5bXGL6IlRYw77Ra5Ux1h2MOqiPmHK08u3KkRjm5o2hpoT5yXmasA%3d%3d"
+                    },
+                    {
+                      "dateAdded": 1730101560684,
+                      "id": "136",
+                      "index": 17,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "儿童高椅产品安全要求与质量风险分析",
+                      "url": "https://qikan.cqvip.com/Qikan/Article/ReadIndex?id=7107796410&info=VvjhKHa8I6GKQmrBJUnoUqyJ9Xq5xk2Y%2fTHCktrfVpb685MMHPszYQ%3d%3d"
+                    },
+                    {
+                      "dateAdded": 1730101564156,
+                      "dateLastUsed": 1730258055508,
+                      "id": "137",
+                      "index": 18,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "检索结果-【维普期刊官网】- 中文期刊服务平台",
+                      "url": "https://qikan.cqvip.com/Qikan/Search/Index?from=Qikan_Article_Detail"
+                    },
+                    {
+                      "dateAdded": 1730717515539,
+                      "id": "138",
+                      "index": 19,
+                      "parentId": "118",
+                      "syncing": true,
+                      "title": "报告编制-任务视图",
+                      "url": "http://192.168.3.231/ReportPreparationOfLF_T#"
+                    }
+                  ],
+                  "dateAdded": 1684766740515,
+                  "dateGroupModified": 1730792631097,
+                  "id": "118",
+                  "index": 8,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "办公"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1521514989000,
+                      "id": "140",
+                      "index": 0,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "报名考试",
+                      "url": "http://ccaa.kaoshi.open.com.cn/a/12.aspx"
+                    },
+                    {
+                      "dateAdded": 1521515176000,
+                      "id": "141",
+                      "index": 1,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "CCAA注册审核员QMS真题在线",
+                      "url": "https://mp.weixin.qq.com/mp/homepage?__biz=MzAxODUwNDg3MA==&hid=5&sn=2f9436892fac5c75f192608dac28024b&scene=18&uin=&key=&devicetype=Windows+10&version=62060028&lang=zh_CN&ascene=7&winzoom=1"
+                    },
+                    {
+                      "dateAdded": 1501571252000,
+                      "id": "142",
+                      "index": 2,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "湖北省高等教育自学考试考生服务平台",
+                      "url": "http://219.140.60.48:8096/portal-web/student/activate"
+                    },
+                    {
+                      "dateAdded": 1520919425000,
+                      "id": "143",
+                      "index": 3,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "湖北省考试考生服务平台",
+                      "url": "http://219.140.60.48:8096/portal-web/login;jsessionid=C58BE6D2467B812B583048E3DC1D985D"
+                    },
+                    {
+                      "dateAdded": 1738941715972,
+                      "id": "144",
+                      "index": 4,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "学前必读",
+                      "url": "https://www.yuque.com/unityalvin/self-study/xh7v6e"
+                    },
+                    {
+                      "dateAdded": 1746353081963,
+                      "id": "145",
+                      "index": 5,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "SolidWorks 2024安装破解教程 - 机械时代网",
+                      "url": "http://www.jxage.com/28638.html"
+                    },
+                    {
+                      "dateAdded": 1754527046681,
+                      "id": "146",
+                      "index": 6,
+                      "parentId": "139",
+                      "syncing": true,
+                      "title": "招标网-招标|招标项目|招标网|招标采购|招投标信息平台",
+                      "url": "https://www.zhaobiao.cn/"
+                    }
+                  ],
+                  "dateAdded": 1684766740516,
+                  "dateGroupModified": 1754527046681,
+                  "id": "139",
+                  "index": 9,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "学习"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1674005249000,
+                      "dateLastUsed": 1716655698048,
+                      "id": "148",
+                      "index": 0,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "好用的mac目录 | awesome-mac/README-zh.md at master · jaywcjlove/awesome-mac · GitHub",
+                      "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md"
+                    },
+                    {
+                      "dateAdded": 1596526048000,
+                      "dateLastUsed": 1716655668913,
+                      "id": "149",
+                      "index": 1,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "MAC游戏-IMACAPP",
+                      "url": "https://www.imacapp.net/mac-games"
+                    },
+                    {
+                      "dateAdded": 1596526279000,
+                      "id": "150",
+                      "index": 2,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "精品MAC应用分享",
+                      "url": "https://xclient.info/"
+                    },
+                    {
+                      "dateAdded": 1599805968000,
+                      "id": "151",
+                      "index": 3,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "威锋 - 千万果粉大本营",
+                      "url": "https://www.feng.com/"
+                    },
+                    {
+                      "dateAdded": 1608012907000,
+                      "id": "152",
+                      "index": 4,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "资源推送频道-综合收录",
+                      "url": "https://www.notion.so/f3e01389903b410287c9c07763315d90"
+                    },
+                    {
+                      "dateAdded": 1674003899000,
+                      "id": "153",
+                      "index": 5,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "马可菠萝 - 分享你喜欢的MAC应用",
+                      "url": "https://www.macbl.com/"
+                    },
+                    {
+                      "dateAdded": 1685108473496,
+                      "dateLastUsed": 1705312788161,
+                      "id": "154",
+                      "index": 6,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "mac最新破解软件下载|mac最新破解游戏下载 - macbox.app",
+                      "url": "https://macbox.app/c/app.html"
+                    },
+                    {
+                      "dateAdded": 1687064593994,
+                      "dateLastUsed": 1705312885301,
+                      "id": "155",
+                      "index": 7,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "AppKed - 下载适用于 Apple Mac 的免费 Mac 应用程序和 Mac 游戏。",
+                      "url": "https://www.macbed.com/"
+                    },
+                    {
+                      "dateAdded": 1691900011100,
+                      "id": "156",
+                      "index": 8,
+                      "parentId": "147",
+                      "syncing": true,
+                      "title": "Awesome Wallpapers - wallhaven.cc",
+                      "url": "https://wallhaven.cc/"
+                    }
+                  ],
+                  "dateAdded": 1684766740516,
+                  "dateGroupModified": 1691900011100,
+                  "id": "147",
+                  "index": 10,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "MAC 软件下载"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1676741611000,
+                      "id": "158",
+                      "index": 0,
+                      "parentId": "157",
+                      "syncing": true,
+                      "title": "11/28修正版：IKuai+OpenWRT+MOSDNS+OpenClash+Adguard Home-软路由,x86系统,openwrt(x86),Router OS 等-恩山无线论坛 - Powered by Discuz!",
+                      "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8265129&highlight=mosdns&mobile=2"
+                    },
+                    {
+                      "dateAdded": 1663572312000,
+                      "dateLastUsed": 1720433499923,
+                      "id": "159",
+                      "index": 1,
+                      "parentId": "157",
+                      "syncing": true,
+                      "title": "我不是矿神 - 群晖,威联通,铁威马,万由UNAS,UNRAID,ESXI,PVE,OPENWRT",
+                      "url": "https://imnks.com/"
+                    },
+                    {
+                      "dateAdded": 1651419197000,
+                      "dateLastUsed": 1720433477485,
+                      "id": "160",
+                      "index": 2,
+                      "parentId": "157",
+                      "syncing": true,
+                      "title": "推荐一款自动更新 Docker 镜像与容器的神器 Watchtower - 奇妙的 Linux 世界",
+                      "url": "https://www.hi-linux.com/posts/49978.html#:~:text=Docker%20%E5%AE%B9%E5%99%A8%E7%9A%84%E9%83%A8%E7%BD%B2%E6%9C%89%E4%B8%80%E7%A7%8D%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E8%A3%85%20App%20%E7%9A%84%E6%84%9F%E8%A7%89%EF%BC%8C%E4%BD%86%20Docker%20%E5%AE%B9%E5%99%A8%E5%B9%B6%E4%B8%8D%E4%BC%9A%E5%83%8F%E6%89%8B%E6%9C%BA%20App%20%E9%82%A3%E6%A0%B7%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%EF%BC%8C%E8%80%8C%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E6%9B%B4%E6%96%B0%E5%AE%B9%E5%99%A8%E4%B8%80%E8%88%AC%E9%9C%80%E8%A6%81%E4%BB%A5%E4%B8%8B%E5%9B%9B%E4%B8%AA%E6%AD%A5%E9%AA%A4%EF%BC%9A,%E5%88%A0%E9%99%A4%E5%AE%B9%E5%99%A8%EF%BC%9A%20docker%20rm%20%3CCONTAINER%3E%20%E6%9B%B4%E6%96%B0%E9%95%9C%E5%83%8F%EF%BC%9A%20docker%20pull%20%3CIMAGE%3E"
+                    }
+                  ],
+                  "dateAdded": 1684766740517,
+                  "dateGroupModified": 1684766740517,
+                  "id": "157",
+                  "index": 11,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "NAS"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1630467525000,
+                      "id": "162",
+                      "index": 0,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "网站盲盒  |  Sharkle | Generator of random awesomeness",
+                      "url": "https://sharkle.com/"
+                    },
+                    {
+                      "dateAdded": 1611724821000,
+                      "id": "163",
+                      "index": 1,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "搜书等啥都能搜  |  虫部落-让搜索更简单！",
+                      "url": "https://www.chongbuluo.com/"
+                    },
+                    {
+                      "dateAdded": 1611724932000,
+                      "id": "164",
+                      "index": 2,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "考研信息集合  |  中国研究生招生信息网",
+                      "url": "https://yz.chsi.com.cn/"
+                    },
+                    {
+                      "dateAdded": 1611725067000,
+                      "id": "165",
+                      "index": 3,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "技能类 影视、编程、前端、平面等教程  |  oeasy",
+                      "url": "http://oeasy.org/"
+                    },
+                    {
+                      "dateAdded": 1611725146000,
+                      "id": "166",
+                      "index": 4,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "日常知识的教学网站  |  wikiHow",
+                      "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+                    },
+                    {
+                      "dateAdded": 1611725177000,
+                      "dateLastUsed": 1742540639006,
+                      "id": "167",
+                      "index": 5,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "模拟各种考试   |  考试酷(examcoo)-永久免费的电子作业与在线考试系统云平台",
+                      "url": "https://examcoo.com/"
+                    },
+                    {
+                      "dateAdded": 1611725223000,
+                      "id": "168",
+                      "index": 6,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "AI写作伴侣&纠错  |  秘塔写作猫",
+                      "url": "https://xiezuocat.com/#/?s=catbd18"
+                    },
+                    {
+                      "dateAdded": 1611725715000,
+                      "id": "169",
+                      "index": 7,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "在线抠图   |  消除图片中的背景 – remove.bg",
+                      "url": "https://www.remove.bg/zh"
+                    },
+                    {
+                      "dateAdded": 1611725804000,
+                      "id": "170",
+                      "index": 8,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "优质PPT素材  |  PPT模板免费下载_精美免费PPT模板下载 - 优品PPT",
+                      "url": "https://www.ypppt.com/"
+                    },
+                    {
+                      "dateAdded": 1611725867000,
+                      "id": "171",
+                      "index": 9,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "任意格式转化1  |  在线转换器 - 转换视频, 音乐, 图像, PDF - Office-Converter.com",
+                      "url": "https://cn.office-converter.com/"
+                    },
+                    {
+                      "dateAdded": 1611725883000,
+                      "id": "172",
+                      "index": 10,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "任意格式转换2  |  PDF转Word | 免费在线PDF转Word | PDF转Word转换器 | PDF转化速度快 | 首页",
+                      "url": "https://www.alltoall.net/"
+                    },
+                    {
+                      "dateAdded": 1611726004000,
+                      "id": "173",
+                      "index": 11,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "语音视频转写  |  网易见外工作台",
+                      "url": "https://jianwai.youdao.com/index/0"
+                    },
+                    {
+                      "dateAdded": 1611726041000,
+                      "id": "174",
+                      "index": 12,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "PPT模板  |  PPT超级市场",
+                      "url": "http://ppt.sotary.com/web/wxapp/index.html"
+                    },
+                    {
+                      "dateAdded": 1611726540000,
+                      "id": "175",
+                      "index": 13,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "字体下载  |  100font.com - 免版权字体下载、免费商用字体下载网站",
+                      "url": "https://www.100font.com/"
+                    },
+                    {
+                      "dateAdded": 1611726856000,
+                      "id": "176",
+                      "index": 14,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "地图生成器  |  Draw all roads in a city at once",
+                      "url": "https://anvaka.github.io/city-roads/?"
+                    },
+                    {
+                      "dateAdded": 1611727096000,
+                      "id": "177",
+                      "index": 15,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "图片无损放大  |  Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+                      "url": "https://bigjpg.com/"
+                    },
+                    {
+                      "dateAdded": 1611727685000,
+                      "id": "178",
+                      "index": 16,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "写作辅助AI  |  伪原创工具_在线伪原创生成_排名文章伪原创 - 5118营销大数据",
+                      "url": "https://wyc.5118.com/?t=zhihu&id=20030360&u=kestory"
+                    },
+                    {
+                      "dateAdded": 1613783027000,
+                      "id": "179",
+                      "index": 17,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "google photo专用  |   元数据修复程序",
+                      "url": "https://metadatafixer.com/"
+                    },
+                    {
+                      "dateAdded": 1683336467000,
+                      "id": "180",
+                      "index": 18,
+                      "parentId": "161",
+                      "syncing": true,
+                      "title": "草料二维码生成器",
+                      "url": "https://cli.im/text"
+                    }
+                  ],
+                  "dateAdded": 1684766740517,
+                  "dateGroupModified": 1684766740517,
+                  "id": "161",
+                  "index": 12,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "有趣的工具"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1678461838000,
+                      "dateLastUsed": 1702220891086,
+                      "id": "182",
+                      "index": 0,
+                      "parentId": "181",
+                      "syncing": true,
+                      "title": "没教育邮箱也能拿Notion个人专业版(38/年或者白嫖)（相对永久)",
+                      "url": "https://incongruous-tourmaline-04a.notion.site/Notion-38-51da388d150043d8b75dcd211a764374"
+                    }
+                  ],
+                  "dateAdded": 1684766740517,
+                  "dateGroupModified": 1684766740517,
+                  "id": "181",
+                  "index": 13,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "教程"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1692269038160,
+                      "id": "184",
+                      "index": 0,
+                      "parentId": "183",
+                      "syncing": true,
+                      "title": "主页 | ASMR基佬中心",
+                      "url": "https://www.asmr.pw/"
+                    },
+                    {
+                      "dateAdded": 1693150406865,
+                      "dateLastUsed": 1735261197055,
+                      "id": "185",
+                      "index": 1,
+                      "parentId": "183",
+                      "syncing": true,
+                      "title": "CloudDrive - Home",
+                      "url": "https://www.clouddrive2.com/index.html"
+                    },
+                    {
+                      "dateAdded": 1693297800819,
+                      "dateLastUsed": 1735261039907,
+                      "id": "186",
+                      "index": 2,
+                      "parentId": "183",
+                      "syncing": true,
+                      "title": "我为什么喜欢 Mathematica | 我心永恒的小站",
+                      "url": "https://wxyhgk.com/article/why-mma"
+                    }
+                  ],
+                  "dateAdded": 1692269053147,
+                  "dateGroupModified": 1693297800819,
+                  "id": "183",
+                  "index": 14,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "有趣的东西"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1694356466848,
+                      "dateLastUsed": 1760014345891,
+                      "id": "188",
+                      "index": 0,
+                      "parentId": "187",
+                      "syncing": true,
+                      "title": "玩家聚会的网站 - Powered by Discuz!",
+                      "url": "https://www.tekqart.com/"
+                    },
+                    {
+                      "dateAdded": 1696606088721,
+                      "dateLastUsed": 1760014787142,
+                      "id": "189",
+                      "index": 1,
+                      "parentId": "187",
+                      "syncing": true,
+                      "title": "密码 6019 自制大气层整合包",
+                      "url": "https://docs.qq.com/aio/DR2l4clJLQ0hhc21V?p=XVbVhI2RoxT38sRwywiD8p"
+                    },
+                    {
+                      "dateAdded": 1712584044981,
+                      "id": "190",
+                      "index": 2,
+                      "parentId": "187",
+                      "syncing": true,
+                      "title": "字节智造 - 计算机应用之精华与优雅",
+                      "url": "https://www.zsxcool.com/"
+                    }
+                  ],
+                  "dateAdded": 1694356474235,
+                  "dateGroupModified": 1712584044981,
+                  "id": "187",
+                  "index": 15,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "NS"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1718290914630,
+                      "id": "192",
+                      "index": 0,
+                      "parentId": "191",
+                      "syncing": true,
+                      "title": "DSM7.X版本的各种坑，黑群晖安装/升级须知！（2023年8月2日更新） - GXNAS博客",
+                      "url": "https://wp.gxnas.com/11819.html"
+                    }
+                  ],
+                  "dateAdded": 1718290928602,
+                  "dateGroupModified": 1718290928602,
+                  "id": "191",
+                  "index": 16,
+                  "parentId": "33",
+                  "syncing": true,
+                  "title": "群晖"
+                }
+              ],
+              "dateAdded": 1684766740513,
+              "dateGroupModified": 1684766740513,
+              "id": "33",
+              "index": 1,
+              "parentId": "1",
+              "syncing": true,
+              "title": "2.工具"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1658213706000,
+                          "id": "196",
+                          "index": 0,
+                          "parentId": "195",
+                          "syncing": true,
+                          "title": "塑料家具行业发展研究报告.docx-原创力文档",
+                          "url": "https://max.book118.com/html/2021/0527/7055125100003125.shtm"
+                        },
+                        {
+                          "dateAdded": 1658214501000,
+                          "id": "197",
+                          "index": 1,
+                          "parentId": "195",
+                          "syncing": true,
+                          "title": "2020年塑料家具行业调研分析报告.docx-文档在线预览",
+                          "url": "https://max.book118.com/html/2020/0216/8127011017002076.shtm"
+                        },
+                        {
+                          "dateAdded": 1658215336000,
+                          "id": "198",
+                          "index": 2,
+                          "parentId": "195",
+                          "syncing": true,
+                          "title": "塑料家具成为印度等南亚市场发展新趋势！_鲁班园",
+                          "url": "https://www.lubanyuan.cn/news/global/5483.html"
+                        }
+                      ],
+                      "dateAdded": 1684766740518,
+                      "dateGroupModified": 1684766740518,
+                      "id": "195",
+                      "index": 0,
+                      "parentId": "194",
+                      "syncing": true,
+                      "title": "塑料家具"
+                    },
+                    {
+                      "dateAdded": 1660804728000,
+                      "id": "199",
+                      "index": 1,
+                      "parentId": "194",
+                      "syncing": true,
+                      "title": "办公椅产品质量的风险分析_参考网",
+                      "url": "https://www.fx361.com/page/2020/1128/7282067.shtml"
+                    }
+                  ],
+                  "dateAdded": 1684766740518,
+                  "dateGroupModified": 1684766740518,
+                  "id": "194",
+                  "index": 0,
+                  "parentId": "193",
+                  "syncing": true,
+                  "title": "国抽"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "dateAdded": 1683872877000,
+                              "id": "203",
+                              "index": 0,
+                              "parentId": "202",
+                              "syncing": true,
+                              "title": "近80万件儿童床护栏被召回！这些年为防止宝宝掉床我真是绞尽脑汁",
+                              "url": "https://baijiahao.baidu.com/s?id=1634214141631978746&wfr=spider&for=pc"
+                            },
+                            {
+                              "dateAdded": 1683872998000,
+                              "id": "204",
+                              "index": 1,
+                              "parentId": "202",
+                              "syncing": true,
+                              "title": "全球与中国婴儿床围栏市场现状及未来发展趋势_百度搜索",
+                              "url": "https://www.baidu.com/s?tn=39042058_34_oem_dg&ie=utf-8&wd=%E5%85%A8%E7%90%83%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A9%B4%E5%84%BF%E5%BA%8A%E5%9B%B4%E6%A0%8F%E5%B8%82%E5%9C%BA%E7%8E%B0%E7%8A%B6%E5%8F%8A%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF"
+                            },
+                            {
+                              "dateAdded": 1683873876000,
+                              "id": "205",
+                              "index": 2,
+                              "parentId": "202",
+                              "syncing": true,
+                              "title": "2023年婴儿安全围栏发展前景 婴儿安全围栏市场前景预测",
+                              "url": "https://hang.cir.cn/Article/%E5%A9%B4%E5%84%BF%E5%AE%89%E5%85%A8%E5%9B%B4%E6%A0%8F/%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF.htm"
+                            },
+                            {
+                              "dateAdded": 1683953324000,
+                              "id": "206",
+                              "index": 3,
+                              "parentId": "202",
+                              "syncing": true,
+                              "title": "如何看待儿童床护栏变“危栏” - 知乎",
+                              "url": "https://zhuanlan.zhihu.com/p/49025547"
+                            },
+                            {
+                              "dateAdded": 1683974176000,
+                              "id": "207",
+                              "index": 4,
+                              "parentId": "202",
+                              "syncing": true,
+                              "title": "2021年中国沙发发展趋势分析，功能沙发渗透率提高，市场持续集中「图」 - 知乎",
+                              "url": "https://zhuanlan.zhihu.com/p/484539911"
+                            }
+                          ],
+                          "dateAdded": 1684766740518,
+                          "dateGroupModified": 1684766740518,
+                          "id": "202",
+                          "index": 0,
+                          "parentId": "201",
+                          "syncing": true,
+                          "title": "2023"
+                        }
+                      ],
+                      "dateAdded": 1684766740518,
+                      "dateGroupModified": 1684766740518,
+                      "id": "201",
+                      "index": 0,
+                      "parentId": "200",
+                      "syncing": true,
+                      "title": "合格率"
+                    }
+                  ],
+                  "dateAdded": 1684766740518,
+                  "dateGroupModified": 1684766740518,
+                  "id": "200",
+                  "index": 1,
+                  "parentId": "193",
+                  "syncing": true,
+                  "title": "政府任务"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dateAdded": 1707231860208,
+                          "id": "210",
+                          "index": 0,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "山东省市场监管局：17批次爬行垫产品抽检不合格-中国质量新闻网",
+                          "url": "https://www.cqn.com.cn/ms/content/2022-01/13/content_8774486.htm"
+                        },
+                        {
+                          "dateAdded": 1705302261188,
+                          "id": "211",
+                          "index": 1,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "国家市场监督管理总局产品质量安全风险监测中心",
+                          "url": "http://www.prisk.cn/Home/List/?keyword=%E9%A3%8E%E9%99%A9%E7%9B%91%E6%B5%8B"
+                        },
+                        {
+                          "dateAdded": 1705373152458,
+                          "id": "212",
+                          "index": 2,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "婴幼儿床垫质量安全风险提示",
+                          "url": "http://szbk.zjknews.com/zjkwb/2023/12/26/app_357445.html"
+                        },
+                        {
+                          "children": [
+                            {
+                              "dateAdded": 1705304886085,
+                              "dateLastUsed": 1707232106850,
+                              "id": "214",
+                              "index": 0,
+                              "parentId": "213",
+                              "syncing": true,
+                              "title": "沪抽检21个品牌25批次儿童高椅，8批次不合格",
+                              "url": "https://sghexport.shobserver.com/html/baijiahao/2023/06/23/1058519.html"
+                            },
+                            {
+                              "dateAdded": 1707231854320,
+                              "dateLastUsed": 1707232094844,
+                              "id": "215",
+                              "index": 1,
+                              "parentId": "213",
+                              "syncing": true,
+                              "title": "上海：儿童高椅不合格检出率32％，涉GEN、ChaoBao等_腾讯新闻",
+                              "url": "https://new.qq.com/rain/a/20230601A0602W00"
+                            },
+                            {
+                              "dateAdded": 1707231837596,
+                              "id": "216",
+                              "index": 2,
+                              "parentId": "213",
+                              "syncing": true,
+                              "title": "2021年儿童高椅产品质量市级监督抽查情况公告（第45期） - 苏州市市场监督管理局",
+                              "url": "https://scjgj.suzhou.gov.cn/szqts/zlcc/202107/137acf2d501e452e8448126f0c567d04.shtml"
+                            }
+                          ],
+                          "dateAdded": 1707232118652,
+                          "dateGroupModified": 1707232118652,
+                          "id": "213",
+                          "index": 3,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "高椅"
+                        },
+                        {
+                          "children": [
+                            {
+                              "dateAdded": 1705303720316,
+                              "id": "218",
+                              "index": 0,
+                              "parentId": "217",
+                              "syncing": true,
+                              "title": "央视曝光！这种爬行垫会让宝宝丧失生育力…远离黑心垫看准这4点",
+                              "url": "https://mp.weixin.qq.com/s?__biz=MzU2NTc3ODQwNA==&mid=2247486789&idx=4&sn=58073b88b6a4733fdaeee43d5ee9e818&chksm=fcb7cfcecbc046d853c125d00ee191206c654d80127fe2931dd942b82ef7af5fddc75d6971d5&scene=27"
+                            },
+                            {
+                              "dateAdded": 1705304092222,
+                              "id": "219",
+                              "index": 1,
+                              "parentId": "217",
+                              "syncing": true,
+                              "title": "儿童爬行垫存安全隐患:35种样品9种样品甲酰胺超标_中国经济网",
+                              "url": "http://m.ce.cn/cj/gd/201711/14/t20171114_26858860.shtml"
+                            }
+                          ],
+                          "dateAdded": 1707232135260,
+                          "dateGroupModified": 1707232135260,
+                          "id": "217",
+                          "index": 4,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "爬行垫"
+                        },
+                        {
+                          "dateAdded": 1707233774211,
+                          "id": "220",
+                          "index": 5,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "6批次儿童床抽检不合格！涉及babycare、婴爱等_腾讯新闻",
+                          "url": "https://new.qq.com/rain/a/20220822A0AA7G00"
+                        },
+                        {
+                          "dateAdded": 1707233995064,
+                          "id": "221",
+                          "index": 6,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "上海市场监管局抽检：天猫京东等平台30批次童床近半不合格_浦江头条_澎湃新闻-The Paper",
+                          "url": "https://www.thepaper.cn/newsDetail_forward_9320862"
+                        },
+                        {
+                          "dateAdded": 1707235769070,
+                          "id": "222",
+                          "index": 7,
+                          "parentId": "209",
+                          "syncing": true,
+                          "title": "2499批次床垫抽检报告：抽检不合格率12.4%！甲醛释放值得注意 - 知乎",
+                          "url": "https://zhuanlan.zhihu.com/p/268767902"
+                        }
+                      ],
+                      "dateAdded": 1707231852157,
+                      "dateGroupModified": 1707235769070,
+                      "id": "209",
+                      "index": 0,
+                      "parentId": "208",
+                      "syncing": true,
+                      "title": "2024"
+                    },
+                    {
+                      "children": [],
+                      "dateAdded": 1707232066059,
+                      "dateGroupModified": 1707232066059,
+                      "id": "223",
+                      "index": 1,
+                      "parentId": "208",
+                      "syncing": true,
+                      "title": "2023"
+                    }
+                  ],
+                  "dateAdded": 1705302275900,
+                  "dateGroupModified": 1705302275900,
+                  "id": "208",
+                  "index": 2,
+                  "parentId": "193",
+                  "syncing": true,
+                  "title": "风险监测"
+                }
+              ],
+              "dateAdded": 1684766740517,
+              "dateGroupModified": 1684766740517,
+              "id": "193",
+              "index": 2,
+              "parentId": "1",
+              "syncing": true,
+              "title": "工作"
+            },
+            {
+              "children": [
+                {
+                  "dateAdded": 1682605461000,
+                  "dateLastUsed": 1702220209171,
+                  "id": "225",
+                  "index": 0,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "土爹爹 - 一个土得掉渣的博客",
+                  "url": "https://www.tudiedie.com/"
+                },
+                {
+                  "dateAdded": 1680448357000,
+                  "dateLastUsed": 1724080263270,
+                  "id": "226",
+                  "index": 1,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "invites.fun",
+                  "url": "https://invites.fun/"
+                },
+                {
+                  "dateAdded": 1634010256000,
+                  "dateLastUsed": 1736821498925,
+                  "id": "227",
+                  "index": 2,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "皇后   |  OpenCD :: 登錄",
+                  "url": "https://www.open.cd/login.php"
+                },
+                {
+                  "dateAdded": 1634010311000,
+                  "id": "228",
+                  "index": 3,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PT 学校",
+                  "url": "https://pt.btschool.club/login.php"
+                },
+                {
+                  "dateAdded": 1634010311000,
+                  "id": "229",
+                  "index": 4,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "pt时间",
+                  "url": "https://www.pttime.org/login.php"
+                },
+                {
+                  "dateAdded": 1634010311000,
+                  "dateLastUsed": 1716796133237,
+                  "id": "230",
+                  "index": 5,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "M-Team - TP :: 首頁 - Powered by NexusPHP",
+                  "url": "https://kp.m-team.cc/index.php"
+                },
+                {
+                  "dateAdded": 1634010311000,
+                  "dateLastUsed": 1694427873117,
+                  "id": "231",
+                  "index": 6,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "TTG :: 公告板",
+                  "url": "https://totheglory.im/announc_note.php"
+                },
+                {
+                  "dateAdded": 1634010311000,
+                  "id": "232",
+                  "index": 7,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PT时间 :: 种子 - Powered by NexusPHP",
+                  "url": "https://www.pttime.org/torrents.php?cat=401"
+                },
+                {
+                  "dateAdded": 1634100228000,
+                  "id": "233",
+                  "index": 8,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "中文字幕网 - 中文字幕搜索,外挂字幕搜索,中文字幕下载网站,中文字幕网站,字幕下载",
+                  "url": "https://cn.zimuzimu.com/"
+                },
+                {
+                  "dateAdded": 1635342889000,
+                  "dateLastUsed": 1699283798450,
+                  "id": "234",
+                  "index": 9,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "U2分享園@動漫花園 :: 首页",
+                  "url": "https://u2.dmhy.org/index.php"
+                },
+                {
+                  "dateAdded": 1639285056000,
+                  "dateLastUsed": 1697016223619,
+                  "id": "235",
+                  "index": 10,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Audiences :: 种子 - Powered by NexusPHP",
+                  "url": "https://audiences.me/torrents.php?hometeam=1&team19=1&team21=1&team20=1&team22=1&team23=1&team24=1"
+                },
+                {
+                  "dateAdded": 1648738690000,
+                  "id": "236",
+                  "index": 11,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDSky :: 登录 高清视界|高清天空|高清发烧友的后花园 - Powered by NexusPHP",
+                  "url": "https://hdsky.me/login.php"
+                },
+                {
+                  "dateAdded": 1649600923000,
+                  "id": "237",
+                  "index": 12,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDAI :: 首页",
+                  "url": "https://www.hd.ai/index.php"
+                },
+                {
+                  "dateAdded": 1649600930000,
+                  "id": "238",
+                  "index": 13,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDFans :: 首页 - Powered by NexusPHP",
+                  "url": "https://hdfans.org/"
+                },
+                {
+                  "dateAdded": 1650183426000,
+                  "dateLastUsed": 1699283792099,
+                  "id": "239",
+                  "index": 14,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "TLFBits :: 首页 简单的分享，简单的快乐 - Powered by NexusPHP",
+                  "url": "https://pt.eastgame.org/index.php"
+                },
+                {
+                  "dateAdded": 1650352254000,
+                  "id": "240",
+                  "index": 15,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "CHDBits - Powered by NexusPHP",
+                  "url": "https://chdbits.co/donatelogin.php"
+                },
+                {
+                  "dateAdded": 1650512161000,
+                  "dateLastUsed": 1697384471812,
+                  "id": "241",
+                  "index": 16,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "开放注册 | PT邀请码网",
+                  "url": "http://www.ptyqm.com/category/kfyqzc/"
+                },
+                {
+                  "dateAdded": 1650865490000,
+                  "id": "242",
+                  "index": 17,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDAtmos :: 首页 *HDAtmos 阿童木洗版4K蓝光原盘高清 Atmos/DTS:X - Powered by NexusPHP",
+                  "url": "https://hdatmos.club/index.php"
+                },
+                {
+                  "dateAdded": 1650956947000,
+                  "id": "243",
+                  "index": 18,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "A-SOUL PT :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.asf.ink/index.php"
+                },
+                {
+                  "dateAdded": 1650957954000,
+                  "id": "244",
+                  "index": 19,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PTNapQAQ :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.napqaq.top/index.php"
+                },
+                {
+                  "dateAdded": 1651120088000,
+                  "id": "245",
+                  "index": 20,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PTHOME :: 首页 PT|下載|電影|藍光電影|電影資源|最新電影|ipv4/ipv6 - Powered by NexusPHP",
+                  "url": "https://www.pthome.net/index.php"
+                },
+                {
+                  "dateAdded": 1651246306000,
+                  "id": "246",
+                  "index": 21,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PT Gen",
+                  "url": "https://pt.cong.workers.dev/"
+                },
+                {
+                  "dateAdded": 1651367322000,
+                  "dateLastUsed": 1699717010761,
+                  "id": "247",
+                  "index": 22,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "烧包 :: 首页 - Powered by PTSBAO",
+                  "url": "https://ptsbao.club/"
+                },
+                {
+                  "dateAdded": 1651577239000,
+                  "dateLastUsed": 1711107173827,
+                  "id": "248",
+                  "index": 23,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PT@KEEPFRDS :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.keepfrds.com/index.php"
+                },
+                {
+                  "dateAdded": 1651648308000,
+                  "id": "249",
+                  "index": 24,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "白兔俱乐部 :: 首页",
+                  "url": "https://club.hares.top/index.php"
+                },
+                {
+                  "dateAdded": 1651666506000,
+                  "id": "250",
+                  "index": 25,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HD Dolby :: 首页 - Powered by NexusPHP",
+                  "url": "https://www.hddolby.com/index.php"
+                },
+                {
+                  "dateAdded": 1651674306000,
+                  "dateLastUsed": 1730422423489,
+                  "id": "251",
+                  "index": 26,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "LemonHD-首页",
+                  "url": "https://lemonhd.org/index.php"
+                },
+                {
+                  "dateAdded": 1652153199000,
+                  "id": "252",
+                  "index": 27,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "CarPT :: 首页 - Powered by NexusPHP",
+                  "url": "https://carpt.net/"
+                },
+                {
+                  "dateAdded": 1652183057000,
+                  "id": "253",
+                  "index": 28,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "GainBound :: 登录 - Powered by NexusPHP",
+                  "url": "https://gainbound.net/login.php"
+                },
+                {
+                  "dateAdded": 1652255486000,
+                  "id": "254",
+                  "index": 29,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PTMSG :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.msg.vg/index.php"
+                },
+                {
+                  "dateAdded": 1652257830000,
+                  "dateLastUsed": 1692888573398,
+                  "id": "255",
+                  "index": 30,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDArea :: 种子 High Definition Area|高清电影|种子下载|pt| bt|磁力下载|电影下载 - Powered by NexusPHP",
+                  "url": "https://www.hdarea.co/torrents.php?incldead=1&spstate=1&inclbookmarked=0&search=&search_area=0&search_mode=0"
+                },
+                {
+                  "dateAdded": 1652325005000,
+                  "dateLastUsed": 1699283793308,
+                  "id": "256",
+                  "index": 31,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "1PTBA.COM :: 首页 壹PT吧,PT下载,教育视频,课件资源,发布教育类,学习类,纪录片等资源 - Powered by NexusPHP",
+                  "url": "https://1ptba.com/index.php"
+                },
+                {
+                  "dateAdded": 1652326908000,
+                  "dateLastUsed": 1699286207559,
+                  "id": "257",
+                  "index": 32,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "帖子列表 - 天雪 - Powered by Discuz!",
+                  "url": "https://www.skyey2.com/forum.php?mod=torrents"
+                },
+                {
+                  "dateAdded": 1652336934000,
+                  "dateLastUsed": 1699283798763,
+                  "id": "258",
+                  "index": 33,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "SSD :: 种子 - Powered by NexusPHP",
+                  "url": "https://springsunday.net/rescue.php"
+                },
+                {
+                  "dateAdded": 1652748856000,
+                  "dateLastUsed": 1699283797256,
+                  "id": "259",
+                  "index": 34,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "ＰＴ之友俱乐部 :: 首页 PTerClub",
+                  "url": "https://pterclub.com/index.php"
+                },
+                {
+                  "dateAdded": 1652871864000,
+                  "id": "260",
+                  "index": 35,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "海棠PT :: 首页 - Powered by NexusPHP",
+                  "url": "https://www.htpt.cc/index.php"
+                },
+                {
+                  "dateAdded": 1653059977000,
+                  "dateLastUsed": 1699283794178,
+                  "id": "261",
+                  "index": 36,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Torrents - IPTorrents - #1 Private Tracker",
+                  "url": "https://iptorrents.com/t"
+                },
+                {
+                  "dateAdded": 1655695558000,
+                  "id": "262",
+                  "index": 37,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "NicePT :: 註冊驗證 - Powered by NexusPHP",
+                  "url": "https://www.nicept.net/ok.php?type=confirm"
+                },
+                {
+                  "dateAdded": 1656414131000,
+                  "id": "263",
+                  "index": 38,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "适合小白的PT盒子入门指南 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/479886858"
+                },
+                {
+                  "dateAdded": 1656427140000,
+                  "dateLastUsed": 1699283800958,
+                  "id": "264",
+                  "index": 39,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Seedbox与Vertex入坑指南",
+                  "url": "https://www.wolai.com/shutu/dP2kYEYvczWNC9oLgYNLuA"
+                },
+                {
+                  "dateAdded": 1656430239000,
+                  "id": "265",
+                  "index": 40,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "ping 138.201.249.45",
+                  "url": "https://ping.pe/138.201.249.45"
+                },
+                {
+                  "dateAdded": 1656467793000,
+                  "dateLastUsed": 1733497526042,
+                  "id": "266",
+                  "index": 41,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "[腳本] 網絡安裝/一鍵重裝Linux on Raid | NPCHK Blog",
+                  "url": "https://npchk.info/oneclick-install-linux-on-raid/"
+                },
+                {
+                  "dateAdded": 1656511487000,
+                  "id": "267",
+                  "index": 42,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Vertext自定义删种规则",
+                  "url": "https://blog.shutu736.com/archives/%E5%88%A0%E7%A7%8D%E8%A7%84%E5%88%99"
+                },
+                {
+                  "dateAdded": 1656903340000,
+                  "dateLastUsed": 1699283794126,
+                  "id": "268",
+                  "index": 43,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDHome :: 首页 高清家园 - Powered by NexusPHP",
+                  "url": "http://hdhome.org/index.php"
+                },
+                {
+                  "dateAdded": 1657421121000,
+                  "id": "269",
+                  "index": 44,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "WinterSakura :: 首页 A little Private Sharing Website. - Powered by NexusPHP",
+                  "url": "https://wintersakura.org/index.php"
+                },
+                {
+                  "dateAdded": 1658288171000,
+                  "dateLastUsed": 1699283801979,
+                  "id": "270",
+                  "index": 45,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "星辰影院 - 2022热播大片电视剧 - 高清无缓冲在线观看",
+                  "url": "https://www.tvccc.org/"
+                },
+                {
+                  "dateAdded": 1660887013000,
+                  "dateLastUsed": 1692869782134,
+                  "id": "271",
+                  "index": 46,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "北洋园PT :: 首页 - Powered by NexusPHP",
+                  "url": "https://www.tjupt.org/index.php"
+                },
+                {
+                  "dateAdded": 1661096982000,
+                  "dateLastUsed": 1691543907127,
+                  "id": "272",
+                  "index": 47,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "梓喵 :: 首页 - Powered by NexusPHP",
+                  "url": "https://azusa.ru/index.php"
+                },
+                {
+                  "dateAdded": 1661165623000,
+                  "id": "273",
+                  "index": 48,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "明教 :: 首页 - Powered by NexusPHP",
+                  "url": "https://hdpt.xyz/index.php"
+                },
+                {
+                  "dateAdded": 1661177135000,
+                  "id": "274",
+                  "index": 49,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PT一下，你就晓嘚",
+                  "url": "http://192.168.50.120:8000/admin/"
+                },
+                {
+                  "dateAdded": 1661302285000,
+                  "dateLastUsed": 1699283793391,
+                  "id": "275",
+                  "index": 50,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDChina :: 首页",
+                  "url": "https://hdchina.org/index.php"
+                },
+                {
+                  "dateAdded": 1661337665000,
+                  "id": "276",
+                  "index": 51,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "555电影APP下载-555电影官网永久发布页",
+                  "url": "https://app.ylcyyy.com/"
+                },
+                {
+                  "dateAdded": 1662435765000,
+                  "id": "277",
+                  "index": 52,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "RuTracker.org",
+                  "url": "https://rutracker.org/forum/index.php"
+                },
+                {
+                  "dateAdded": 1662703054000,
+                  "id": "278",
+                  "index": 53,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "首頁 - 動漫花園資源網 - 動漫愛好者的自由交流平台",
+                  "url": "http://share.dmhy.org/"
+                },
+                {
+                  "dateAdded": 1662724707000,
+                  "id": "279",
+                  "index": 54,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "OurBits :: 首页 - Powered by NexusPHP",
+                  "url": "https://ourbits.club/index.php"
+                },
+                {
+                  "dateAdded": 1662908271000,
+                  "id": "280",
+                  "index": 55,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "CHDBits :: 首页 - Powered by NexusPHP",
+                  "url": "https://chdbits.co/index.php"
+                },
+                {
+                  "dateAdded": 1673855490000,
+                  "id": "281",
+                  "index": 56,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HHanClub :: 首页 - Powered by NexusPHP",
+                  "url": "https://hhanclub.top/index.php"
+                },
+                {
+                  "dateAdded": 1673923460000,
+                  "dateLastUsed": 1700930803504,
+                  "id": "282",
+                  "index": 57,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "首页 :: 朱雀 - ZHUQUE :: Powered By TNode",
+                  "url": "https://zhuque.in/index"
+                },
+                {
+                  "dateAdded": 1675835063000,
+                  "id": "283",
+                  "index": 58,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "2xFree :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.2xfree.org/index.php"
+                },
+                {
+                  "dateAdded": 1678241049000,
+                  "id": "284",
+                  "index": 59,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Plex-Family :: 种子 - Powered by NexusPHP",
+                  "url": "https://plexfm.top/torrents.php?cat401=1&cat404=1&cat405=1&cat402=1&cat403=1&cat407=1&cat409=1"
+                },
+                {
+                  "dateAdded": 1680577551000,
+                  "id": "285",
+                  "index": 60,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "大青虫 :: 首页 - Powered by NexusPHP",
+                  "url": "https://cyanbug.net/index.php"
+                },
+                {
+                  "dateAdded": 1682515135000,
+                  "dateLastUsed": 1699283798027,
+                  "id": "286",
+                  "index": 61,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "聆音Club :: 首页 - Powered by NexusPHP",
+                  "url": "https://pt.soulvoice.club/index.php"
+                },
+                {
+                  "dateAdded": 1683116597000,
+                  "dateLastUsed": 1732617669233,
+                  "id": "287",
+                  "index": 62,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "国语视界︱字幕︱音轨︱特效字幕︱国语音轨︱音频软件︱影视教程 - 国语视界",
+                  "url": "https://cnlang.org/"
+                },
+                {
+                  "dateAdded": 1688273964947,
+                  "id": "288",
+                  "index": 63,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "UltraHD :: 首页 - Powered by NexusPHP",
+                  "url": "https://ultrahd.net/index.php"
+                },
+                {
+                  "dateAdded": 1688524344231,
+                  "id": "289",
+                  "index": 64,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "动态封面 - freea.org > emby > 动态封面",
+                  "url": "https://freea.org/emby/%E5%8A%A8%E6%80%81%E5%B0%81%E9%9D%A2/"
+                },
+                {
+                  "dateAdded": 1690160725487,
+                  "dateLastUsed": 1699283800965,
+                  "id": "290",
+                  "index": 65,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "教程5️⃣站点限速参考",
+                  "url": "https://yunfeipt.flowus.cn/share/9a862b41-3e9a-44b7-8ac1-a8881377a4b5"
+                },
+                {
+                  "dateAdded": 1690812903594,
+                  "dateLastUsed": 1693148203761,
+                  "id": "291",
+                  "index": 66,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "影 :: 首页 - Powered by NexusPHP",
+                  "url": "https://shadowflow.org/index.php"
+                },
+                {
+                  "dateAdded": 1691045020311,
+                  "dateLastUsed": 1699283794653,
+                  "id": "292",
+                  "index": 67,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "猪猪网 :: 首页 - Powered by NexusPHP",
+                  "url": "https://piggo.me/index.php"
+                },
+                {
+                  "dateAdded": 1692632025451,
+                  "id": "293",
+                  "index": 68,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "红叶 :: 登录 - Red Leaves",
+                  "url": "https://leaves.red/login.php"
+                },
+                {
+                  "dateAdded": 1692975372549,
+                  "id": "294",
+                  "index": 69,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "这里是奈奈子 | nnk.im",
+                  "url": "https://docs.nnk.im/guide/"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1693583353180,
+                      "id": "296",
+                      "index": 0,
+                      "parentId": "295",
+                      "syncing": true,
+                      "title": "E站（里站））",
+                      "url": "https://e-hentai.org/home.php"
+                    }
+                  ],
+                  "dateAdded": 1693583377214,
+                  "dateGroupModified": 1693583377214,
+                  "id": "295",
+                  "index": 70,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "漫画"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1702129699949,
+                      "id": "298",
+                      "index": 0,
+                      "parentId": "297",
+                      "syncing": true,
+                      "title": "宅男福利社",
+                      "url": "https://www.fulimos.com/"
+                    }
+                  ],
+                  "dateAdded": 1702129709537,
+                  "dateGroupModified": 1702129709537,
+                  "id": "297",
+                  "index": 71,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "其他"
+                },
+                {
+                  "dateAdded": 1703833753387,
+                  "id": "299",
+                  "index": 72,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "PTVicomo :: 首页 - Powered by NexusPHP",
+                  "url": "https://ptvicomo.net/index.php"
+                },
+                {
+                  "dateAdded": 1704034651960,
+                  "dateLastUsed": 1710324475571,
+                  "id": "300",
+                  "index": 73,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "AGSV 末日种子库",
+                  "url": "https://abroad.agsvpt.com/index.php"
+                },
+                {
+                  "dateAdded": 1704035622557,
+                  "id": "301",
+                  "index": 74,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "SharkPT :: 控制面板 - 首页 - Powered by NexusPHP",
+                  "url": "https://sharkpt.net/usercp.php"
+                },
+                {
+                  "dateAdded": 1704690320655,
+                  "dateLastUsed": 1717499699364,
+                  "id": "302",
+                  "index": 75,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "ECUST PT :: 首页 - Powered by NexusPHP",
+                  "url": "https://public.ecustpt.eu.org/index.php"
+                },
+                {
+                  "dateAdded": 1705022357559,
+                  "id": "303",
+                  "index": 76,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "MT免费大包通知",
+                  "url": "http://45.147.50.246/mt"
+                },
+                {
+                  "dateAdded": 1705477654711,
+                  "id": "304",
+                  "index": 77,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "葡萄 :: 首页",
+                  "url": "https://pt.sjtu.edu.cn/index.php"
+                },
+                {
+                  "dateAdded": 1708486386330,
+                  "id": "305",
+                  "index": 78,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HDKylin - 麒麟 :: 种子 - Powered by NexusPHP",
+                  "url": "https://www.hdkyl.in/torrents.php?tag_id=3"
+                },
+                {
+                  "dateAdded": 1717499681130,
+                  "id": "306",
+                  "index": 79,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "Arctic global seed vault :: 首页 - Powered by NexusPHP",
+                  "url": "https://new.agsvpt.com/index.php"
+                },
+                {
+                  "dateAdded": 1741275999476,
+                  "id": "307",
+                  "index": 80,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "免费在线图片编辑器 - 在线抠图、改图、修图、美图 - PhotoKit.com",
+                  "url": "https://photokit.com/?lang=zh#editor"
+                },
+                {
+                  "dateAdded": 1741334177087,
+                  "id": "308",
+                  "index": 81,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "iStoreOS - 软件包 - LuCI",
+                  "url": "https://op.524869.xyz:5555/cgi-bin/luci/admin/system/opkg"
+                },
+                {
+                  "dateAdded": 1743425840242,
+                  "id": "309",
+                  "index": 82,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "DNS Checker - DNS Check Propagation Tool",
+                  "url": "https://dnschecker.org/#A/pterclub.com"
+                },
+                {
+                  "dateAdded": 1743427335245,
+                  "dateLastUsed": 1745820602022,
+                  "id": "310",
+                  "index": 83,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "HiFiNi - 音乐磁场",
+                  "url": "https://hifini.com/"
+                },
+                {
+                  "dateAdded": 1744175579859,
+                  "id": "311",
+                  "index": 84,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "FSM",
+                  "url": "https://fsm.name/Users/login?_uri=%2F"
+                },
+                {
+                  "dateAdded": 1744298276456,
+                  "id": "312",
+                  "index": 85,
+                  "parentId": "224",
+                  "syncing": true,
+                  "title": "色花堂-98堂 - Powered by Discuz!",
+                  "url": "https://www.sehuatang.net/"
+                }
+              ],
+              "dateAdded": 1684766740518,
+              "dateGroupModified": 1744298276456,
+              "id": "224",
+              "index": 3,
+              "parentId": "1",
+              "syncing": true,
+              "title": "PT"
+            },
+            {
+              "children": [
+                {
+                  "dateAdded": 1686555529701,
+                  "dateLastUsed": 1686915520807,
+                  "id": "314",
+                  "index": 0,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Releases · XIU2/CloudflareSpeedTest",
+                  "url": "https://github.com/XIU2/CloudflareSpeedTest/releases"
+                },
+                {
+                  "dateAdded": 1686555535333,
+                  "id": "315",
+                  "index": 1,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Audiences :: 查看主题 \"【加速技巧】加速访问本站及所有使用CF网站的技巧\" - Powered by NexusPHP",
+                  "url": "https://audiences.me/forums.php?action=viewtopic&forumid=21&topicid=295"
+                },
+                {
+                  "dateAdded": 1687707762862,
+                  "dateLastUsed": 1731555343566,
+                  "id": "316",
+                  "index": 2,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Docker Proxy 镜像加速",
+                  "url": "https://dockerproxy.com/"
+                },
+                {
+                  "dateAdded": 1688623768305,
+                  "dateLastUsed": 1688649371715,
+                  "id": "317",
+                  "index": 3,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "GitHub - hdbjlizhe/fanli",
+                  "url": "https://github.com/hdbjlizhe/fanli#%E5%92%96%E5%95%A1%E7%A0%81%E7%9A%84%E8%BF%81%E5%85%A5%E8%BF%81%E5%87%BA"
+                },
+                {
+                  "dateAdded": 1688918124575,
+                  "id": "318",
+                  "index": 4,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "【2023优选IP最新教程】如何通过Cloudflare workers创建一个自己的优选IP测速地址，优选IP再也不是难事，解决优选IP老是速度为0",
+                  "url": "https://www.kjkkk.top/2023/07/2023ipcloudflare-workersipipip0.html"
+                },
+                {
+                  "dateAdded": 1689144460169,
+                  "id": "319",
+                  "index": 5,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "ddsderek/mediaservertools - Docker Image | Docker Hub",
+                  "url": "https://hub.docker.com/r/ddsderek/mediaservertools"
+                },
+                {
+                  "dateAdded": 1689155678513,
+                  "id": "320",
+                  "index": 6,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "jxxghp/MoviePilot",
+                  "url": "https://github.com/jxxghp/MoviePilot"
+                },
+                {
+                  "dateAdded": 1689491339545,
+                  "id": "321",
+                  "index": 7,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "CHDBits :: 论坛 - Powered by NexusPHP",
+                  "url": "https://ptchdbits.co/forums.php"
+                },
+                {
+                  "dateAdded": 1691328863557,
+                  "id": "322",
+                  "index": 8,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "SpotX-Bash,SpotX，但 bash...适用于 Linux 和 macOS,下载SpotX-Bash的源码_GitHub_帮酷",
+                  "url": "https://github.com/jetfir3/SpotX-Bash"
+                },
+                {
+                  "dateAdded": 1691384580173,
+                  "id": "323",
+                  "index": 9,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Mbot-Plugins/Plex at main · Alano-i/Mbot-Plugins",
+                  "url": "https://github.com/Alano-i/Mbot-Plugins/tree/main/Plex"
+                },
+                {
+                  "dateAdded": 1691384585509,
+                  "dateLastUsed": 1691393317958,
+                  "id": "324",
+                  "index": 10,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Mbot-Plugins/MR-Plugins at main · Alano-i/Mbot-Plugins",
+                  "url": "https://github.com/Alano-i/Mbot-Plugins/tree/main/MR-Plugins"
+                },
+                {
+                  "dateAdded": 1692320689779,
+                  "dateLastUsed": 1694351136129,
+                  "id": "325",
+                  "index": 11,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Alano-i/Mbot-Plugins: Movie Robot 插件，以及一些企业微信微通知脚本。",
+                  "url": "https://github.com/Alano-i/Mbot-Plugins"
+                },
+                {
+                  "dateAdded": 1693237651456,
+                  "id": "326",
+                  "index": 12,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "htnanako/MovieBot_plugins",
+                  "url": "https://github.com/htnanako/MovieBot_plugins"
+                },
+                {
+                  "dateAdded": 1695867818477,
+                  "id": "327",
+                  "index": 13,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "baiduwp-php/README_ZH.md at master · yuantuo666/baiduwp-php",
+                  "url": "https://github.com/yuantuo666/baiduwp-php/blob/master/README_ZH.md"
+                },
+                {
+                  "dateAdded": 1698660848290,
+                  "id": "328",
+                  "index": 14,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "moviepilot - DDS-Derek/MoviePilot at docs",
+                  "url": "https://github.com/DDS-Derek/MoviePilot/tree/docs"
+                },
+                {
+                  "dateAdded": 1712545866193,
+                  "id": "329",
+                  "index": 15,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "sleikang/media_server_tools: Emby|Jellyfin|Plex 辅助自动化工具",
+                  "url": "https://github.com/sleikang/media_server_tools"
+                },
+                {
+                  "dateAdded": 1714918343384,
+                  "id": "330",
+                  "index": 16,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "tsukinaha/tsukimi: A simple third-party Emby client",
+                  "url": "https://github.com/tsukinaha/tsukimi"
+                },
+                {
+                  "dateAdded": 1715268016977,
+                  "id": "331",
+                  "index": 17,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Emby+115的网盘直链方案，外网看片不再受限上传带宽 | 奈奈子",
+                  "url": "https://blog.nanako.vip/?p=162"
+                },
+                {
+                  "dateAdded": 1715693097397,
+                  "id": "332",
+                  "index": 18,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "穿越时间·一步到位，教你完美安装Windows 11 Android 安卓子系统 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/658580570"
+                },
+                {
+                  "dateAdded": 1731993612206,
+                  "id": "333",
+                  "index": 19,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "imaliang/cloud-media-sync - Docker Image | Docker Hub",
+                  "url": "https://hub.docker.com/r/imaliang/cloud-media-sync"
+                },
+                {
+                  "dateAdded": 1733515071885,
+                  "id": "334",
+                  "index": 20,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "Releases · sjtuross/StrmAssistant",
+                  "url": "https://github.com/sjtuross/StrmAssistant"
+                },
+                {
+                  "dateAdded": 1733883299218,
+                  "id": "335",
+                  "index": 21,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "ivmm/Student-resources: 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。",
+                  "url": "https://github.com/ivmm/Student-resources"
+                },
+                {
+                  "dateAdded": 1733899489190,
+                  "id": "336",
+                  "index": 22,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "lifj25/onestrm - Docker Image | Docker Hub",
+                  "url": "https://hub.docker.com/r/lifj25/onestrm"
+                },
+                {
+                  "dateAdded": 1733901263998,
+                  "id": "337",
+                  "index": 23,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "thsrite/MediaLinker: embyExternalUrl的docker版本。旨在快速部署，自动申请更新ssl证书，直接起飞。感谢chen3861229大佬、bpking1大佬。",
+                  "url": "https://github.com/thsrite/MediaLinker"
+                },
+                {
+                  "dateAdded": 1735275684939,
+                  "id": "338",
+                  "index": 24,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "qBittorrent登录web界面显示”unauthorized”和”invalid Username or Password”解决方案 – 龙行天下的博客",
+                  "url": "https://www.lxtx.tech/archives/100"
+                },
+                {
+                  "dateAdded": 1740103216643,
+                  "dateLastUsed": 1756971663630,
+                  "id": "339",
+                  "index": 25,
+                  "parentId": "313",
+                  "syncing": true,
+                  "title": "GitHub Proxy 代理加速",
+                  "url": "https://ghfast.top/"
+                }
+              ],
+              "dateAdded": 1684766740520,
+              "dateGroupModified": 1740103219203,
+              "id": "313",
+              "index": 4,
+              "parentId": "1",
+              "syncing": true,
+              "title": "GITHUB"
+            },
+            {
+              "children": [
+                {
+                  "dateAdded": 1706597211817,
+                  "id": "341",
+                  "index": 0,
+                  "parentId": "340",
+                  "syncing": true,
+                  "title": "上海市产品质量技术检验研究院",
+                  "url": "https://xk.scjgj.sh.gov.cn/xzxk_wbjg/#/itemList?id=1702948882296&name=%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B4%A8%E9%87%8F%E7%9B%91%E7%9D%A3%E6%A3%80%E9%AA%8C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2"
+                },
+                {
+                  "dateAdded": 1706597501808,
+                  "id": "342",
+                  "index": 1,
+                  "parentId": "340",
+                  "syncing": true,
+                  "title": "广东省质监局质量信息公示平台",
+                  "url": "https://amr.gd.gov.cn/gdzj-web/certificatesearch/cmalicence/detail.do?id=04e798a67966414b9b035ccdc311add6"
+                },
+                {
+                  "children": [
+                    {
+                      "dateAdded": 1706536692555,
+                      "dateLastUsed": 1715755056111,
+                      "id": "344",
+                      "index": 0,
+                      "parentId": "343",
+                      "syncing": true,
+                      "title": "Explore - Coze",
+                      "url": "https://www.coze.com/explore"
+                    },
+                    {
+                      "dateAdded": 1722266838453,
+                      "dateLastUsed": 1724894297586,
+                      "id": "345",
+                      "index": 1,
+                      "parentId": "343",
+                      "syncing": true,
+                      "title": "VecMul Chat",
+                      "url": "https://www.vecmul.com/chat?from=main"
+                    },
+                    {
+                      "dateAdded": 1722352117061,
+                      "dateLastUsed": 1724894302674,
+                      "id": "346",
+                      "index": 2,
+                      "parentId": "343",
+                      "syncing": true,
+                      "title": "Claude免费镜像号池",
+                      "url": "https://share.claude.asia/"
+                    },
+                    {
+                      "dateAdded": 1723777947681,
+                      "dateLastUsed": 1724894286626,
+                      "id": "347",
+                      "index": 3,
+                      "parentId": "343",
+                      "syncing": true,
+                      "title": "Claude",
+                      "url": "https://chat.kelaode.ai/chat/935e2dbc-7802-4bc7-b0d6-58c4b3d8f61a"
+                    },
+                    {
+                      "dateAdded": 1725414246133,
+                      "id": "348",
+                      "index": 4,
+                      "parentId": "343",
+                      "syncing": true,
+                      "title": "Aurora.ai - 看更大的世界",
+                      "url": "https://aurorai.cn/chat/#/"
+                    }
+                  ],
+                  "dateAdded": 1706536704233,
+                  "dateGroupModified": 1729060531832,
+                  "id": "343",
+                  "index": 2,
+                  "parentId": "340",
+                  "syncing": true,
+                  "title": "AI"
+                }
+              ],
+              "dateAdded": 1706597209520,
+              "dateGroupModified": 1757653820978,
+              "id": "340",
+              "index": 5,
+              "parentId": "1",
+              "syncing": true,
+              "title": "资质查询"
+            },
+            {
+              "children": [
+                {
+                  "dateAdded": 1734243650457,
+                  "dateLastUsed": 1760500389798,
+                  "id": "350",
+                  "index": 0,
+                  "parentId": "349",
+                  "syncing": true,
+                  "title": "Cool Online Emby",
+                  "url": "https://nullbr.online/"
+                },
+                {
+                  "dateAdded": 1733815990244,
+                  "dateLastUsed": 1734584903992,
+                  "id": "351",
+                  "index": 1,
+                  "parentId": "349",
+                  "syncing": true,
+                  "title": "狗子爱分享",
+                  "url": "https://www.kdocs.cn/l/cc5ipEjTbBbO?R=L1MvMzU="
+                },
+                {
+                  "dateAdded": 1699587674421,
+                  "dateLastUsed": 1716385983925,
+                  "id": "352",
+                  "index": 2,
+                  "parentId": "349",
+                  "syncing": true,
+                  "title": "网盘小站-阿里云盘资源共享第一站",
+                  "url": "https://wpxz.top/"
+                }
+              ],
+              "dateAdded": 1733817345852,
+              "dateGroupModified": 1754874465318,
+              "id": "349",
+              "index": 6,
+              "parentId": "1",
+              "syncing": true,
+              "title": "115"
+            },
+            {
+              "children": [
+                {
+                  "dateAdded": 1734938801867,
+                  "dateLastUsed": 1735198802271,
+                  "id": "354",
+                  "index": 0,
+                  "parentId": "353",
+                  "syncing": true,
+                  "title": "标准科学",
+                  "url": "https://navi.cnki.net/knavi/detail?p=DKL1UjmkCWTtgisl1P-SdYAJQgq3ghIw6OeZWph3nwLa3pu88c8aW8e1VPkT9fXdeuvbLPtKZhonUjmDVyo8E0jNxNXdFjrjye5WNsnwcOM=&uniplatform=NZKPT"
+                },
+                {
+                  "dateAdded": 1742793252550,
+                  "id": "355",
+                  "index": 1,
+                  "parentId": "353",
+                  "syncing": true,
+                  "title": "范文喵 - 论文范文V4.0",
+                  "url": "https://paper.openmao.cn/openmao/#/ai-paper4/paper4"
+                },
+                {
+                  "dateAdded": 1742793265538,
+                  "id": "356",
+                  "index": 2,
+                  "parentId": "353",
+                  "syncing": true,
+                  "title": "论文检测 - AI Detector - the Original AI Checker for ChatGPT & More",
+                  "url": "https://gptzero.me/"
+                }
+              ],
+              "dateAdded": 1734938789858,
+              "dateGroupModified": 1742793265538,
+              "id": "353",
+              "index": 7,
+              "parentId": "1",
+              "syncing": true,
+              "title": "刊物"
+            },
+            {
+              "dateAdded": 1708159741839,
+              "dateLastUsed": 1760713163119,
+              "id": "357",
+              "index": 8,
+              "parentId": "1",
+              "syncing": true,
+              "title": "Plex",
+              "url": "https://docs.qq.com/doc/DV3JkZnhKTHdIckVt"
+            },
+            {
+              "dateAdded": 1720016566347,
+              "dateLastUsed": 1724902373508,
+              "id": "358",
+              "index": 9,
+              "parentId": "1",
+              "syncing": true,
+              "title": "家庭作业网",
+              "url": "https://jiatingzuoye.cn/#/app/content"
+            },
+            {
+              "dateAdded": 1721228753399,
+              "dateLastUsed": 1736729545349,
+              "id": "359",
+              "index": 10,
+              "parentId": "1",
+              "syncing": true,
+              "title": "SMS-Activate是在线接受短信的虚拟号码服务",
+              "url": "https://sms-activate.io/cn"
+            },
+            {
+              "dateAdded": 1732598579556,
+              "dateLastUsed": 1754874475469,
+              "id": "360",
+              "index": 11,
+              "parentId": "1",
+              "syncing": true,
+              "title": "国内 Docker 服务状态 & 镜像加速监控",
+              "url": "https://status.1panel.top/status/docker"
+            },
+            {
+              "dateAdded": 1732866500347,
+              "id": "361",
+              "index": 12,
+              "parentId": "1",
+              "syncing": true,
+              "title": "Tasle/InstallNET: 萌咖大佬的DD脚本",
+              "url": "https://github.com/Tasle/InstallNET"
+            },
+            {
+              "dateAdded": 1732866753762,
+              "id": "362",
+              "index": 13,
+              "parentId": "1",
+              "syncing": true,
+              "title": "bin456789/reinstall: 一键DD/重装脚本 (One-click reinstall OS on VPS)",
+              "url": "https://github.com/bin456789/reinstall"
+            },
+            {
+              "dateAdded": 1755015006642,
+              "dateLastUsed": 1755163437685,
+              "id": "363",
+              "index": 14,
+              "parentId": "1",
+              "syncing": true,
+              "title": "下载 AlgerMusicPlayer",
+              "url": "https://donate.alger.fun/download"
+            },
+            {
+              "dateAdded": 1702216390798,
+              "dateLastUsed": 1761018504635,
+              "id": "364",
+              "index": 15,
+              "parentId": "1",
+              "syncing": true,
+              "title": "Adobe Acrobat",
+              "url": "https://acrobat.adobe.com/?x_api_client_id=bookmark&x_api_client_location=Acrobat"
+            },
+            {
+              "dateAdded": 1757653820978,
+              "dateLastUsed": 1759996197054,
+              "id": "365",
+              "index": 16,
+              "parentId": "1",
+              "syncing": true,
+              "title": "湖北省专业技术人员职称评审管理信息系统",
+              "url": "http://59.175.218.201:8502/app/home.html"
+            },
+            {
+              "dateAdded": 1702216390798,
+              "id": "366",
+              "index": 17,
+              "parentId": "1",
+              "syncing": true,
+              "title": "Adobe Acrobat",
+              "url": "https://acrobat.adobe.com/?x_api_client_id=bookmark&x_api_client_location=Acrobat"
+            },
+            {
+              "dateAdded": 1758506460984,
+              "dateLastUsed": 1759040852146,
+              "id": "372",
+              "index": 18,
+              "parentId": "1",
+              "syncing": true,
+              "title": "中羽在线社区-羽毛球友都在这！",
+              "url": "https://bbs.badmintoncn.com/portal.php"
+            }
+          ],
+          "dateAdded": 1714969343149,
+          "dateGroupModified": 1758506460984,
+          "folderType": "bookmarks-bar",
+          "id": "1",
+          "index": 0,
+          "parentId": "0",
+          "syncing": true,
+          "title": "书签栏"
+        },
+        {
+          "children": [
+            {
+              "dateAdded": 1732931867495,
+              "id": "368",
+              "index": 0,
+              "parentId": "367",
+              "syncing": true,
+              "title": " hretehrfthf",
+              "url": "https://1panel.917520.xyz/hosts/firewall/port"
+            },
+            {
+              "dateAdded": 1733056581926,
+              "id": "369",
+              "index": 1,
+              "parentId": "367",
+              "syncing": true,
+              "title": "Repository Structure",
+              "url": "https://surge.qingr.moe/"
+            }
+          ],
+          "dateAdded": 1714969343149,
+          "dateGroupModified": 1733815993476,
+          "folderType": "other",
+          "id": "367",
+          "index": 1,
+          "parentId": "0",
+          "syncing": true,
+          "title": "其他书签"
+        }
+      ],
+      "dateAdded": 1761008177890,
+      "id": "0",
+      "syncing": false,
+      "title": ""
+    }
+  ],
+  "metadata": {
+    "extensionVersion": "1.4.19",
+    "totalBookmarks": 324
+  },
+  "settings": {
+    "aiApiKey": "",
+    "aiApiUrl": "",
+    "aiBatchSize": 120,
+    "aiConcurrency": 3,
+    "aiModel": "gpt-3.5-turbo",
+    "aiProvider": "openai",
+    "autoBackup": true,
+    "autoClassify": true,
+    "backupInterval": 86400000,
+    "backupPath": "",
+    "classificationLanguage": "auto",
+    "classificationRules": [
+      {
+        "category": "开源与代码托管",
+        "keywords": [
+          "github",
+          "gitlab",
+          "gitee",
+          "bitbucket",
+          "source code",
+          "repository",
+          "repo"
+        ]
+      },
+      {
+        "category": "开发文档与API",
+        "keywords": [
+          "docs",
+          "documentation",
+          "api",
+          "sdk",
+          "developer",
+          "developers",
+          "reference",
+          "文档",
+          "接口"
+        ]
+      },
+      {
+        "category": "前端框架",
+        "keywords": [
+          "react",
+          "vue",
+          "angular",
+          "svelte",
+          "nextjs",
+          "nuxt",
+          "vite",
+          "webpack",
+          "babel",
+          "preact",
+          "solidjs",
+          "ember"
+        ]
+      },
+      {
+        "category": "后端框架",
+        "keywords": [
+          "spring",
+          "springboot",
+          "django",
+          "flask",
+          "fastapi",
+          "express",
+          "koa",
+          "rails",
+          "laravel",
+          "nestjs",
+          "micronaut",
+          "quarkus",
+          "fastify",
+          "hapi",
+          "gin",
+          "asp.net",
+          "dotnet",
+          "phoenix"
+        ]
+      },
+      {
+        "category": "云服务与DevOps",
+        "keywords": [
+          "aws",
+          "azure",
+          "gcp",
+          "cloud",
+          "kubernetes",
+          "k8s",
+          "docker",
+          "ci",
+          "cd",
+          "devops",
+          "terraform",
+          "cloudflare",
+          "vercel",
+          "netlify",
+          "digitalocean",
+          "heroku",
+          "render",
+          "linode",
+          "railway"
+        ]
+      },
+      {
+        "category": "数据库与数据",
+        "keywords": [
+          "mysql",
+          "postgres",
+          "mongodb",
+          "redis",
+          "sqlite",
+          "elasticsearch",
+          "clickhouse",
+          "snowflake",
+          "data",
+          "数据库",
+          "mariadb",
+          "oracle",
+          "sql server",
+          "mssql",
+          "dynamodb",
+          "bigquery",
+          "firestore",
+          "cassandra"
+        ]
+      },
+      {
+        "category": "AI与机器学习",
+        "keywords": [
+          "ai",
+          "ml",
+          "deep learning",
+          "nn",
+          "transformer",
+          "openai",
+          "huggingface",
+          "stable diffusion",
+          "llm",
+          "机器学习",
+          "midjourney",
+          "dalle",
+          "runway",
+          "colab",
+          "tensorflow",
+          "pytorch",
+          "sklearn",
+          "xgboost"
+        ]
+      },
+      {
+        "category": "产品设计",
+        "keywords": [
+          "product",
+          "ux",
+          "ui",
+          "prototype",
+          "设计",
+          "交互",
+          "体验"
+        ]
+      },
+      {
+        "category": "设计资源与素材",
+        "keywords": [
+          "dribbble",
+          "behance",
+          "figma",
+          "psd",
+          "svg",
+          "icon",
+          "font",
+          "素材",
+          "配色",
+          "icons8",
+          "fontawesome",
+          "material icons",
+          "coolors",
+          "colorhunt"
+        ]
+      },
+      {
+        "category": "学习教程与课程",
+        "keywords": [
+          "course",
+          "教程",
+          "tutorial",
+          "learn",
+          "学习",
+          "class",
+          "lesson",
+          "udemy",
+          "coursera",
+          "edx",
+          "pluralsight",
+          "codecademy",
+          "freecodecamp"
+        ]
+      },
+      {
+        "category": "技术博客与社区",
+        "keywords": [
+          "blog",
+          "博客",
+          "medium",
+          "dev.to",
+          "reddit",
+          "讨论",
+          "community",
+          "论坛",
+          "hashnode"
+        ]
+      },
+      {
+        "category": "新闻资讯与媒体",
+        "keywords": [
+          "news",
+          "资讯",
+          "headline",
+          "媒体",
+          "press",
+          "newsletter",
+          "cnn",
+          "bbc",
+          "reuters",
+          "nytimes",
+          "theverge",
+          "wired",
+          "techcrunch",
+          "hacker news"
+        ]
+      },
+      {
+        "category": "在线工具与服务",
+        "keywords": [
+          "tool",
+          "工具",
+          "software",
+          "app",
+          "应用",
+          "utility",
+          "converter",
+          "online",
+          "remove.bg",
+          "smallpdf",
+          "ilovepdf",
+          "convertio",
+          "tinypng",
+          "tinyurl"
+        ]
+      },
+      {
+        "category": "下载与资源",
+        "keywords": [
+          "download",
+          "下载",
+          "镜像",
+          "资源",
+          "release",
+          "release notes",
+          "npmjs",
+          "pypi",
+          "maven",
+          "rubygems",
+          "crates.io",
+          "chocolatey"
+        ]
+      },
+      {
+        "category": "视频与音乐",
+        "keywords": [
+          "youtube",
+          "bilibili",
+          "netflix",
+          "spotify",
+          "video",
+          "音乐",
+          "音频",
+          "影视",
+          "vimeo",
+          "soundcloud",
+          "apple music",
+          "deezer",
+          "qq音乐",
+          "网易云音乐",
+          "youku",
+          "iqiyi",
+          "腾讯视频"
+        ]
+      },
+      {
+        "category": "游戏与娱乐",
+        "keywords": [
+          "game",
+          "gaming",
+          "steam",
+          "xbox",
+          "ps5",
+          "游戏",
+          "娱乐",
+          "epic",
+          "uplay",
+          "origin",
+          "battlenet",
+          "psn",
+          "nintendo"
+        ]
+      },
+      {
+        "category": "购物电商",
+        "keywords": [
+          "shop",
+          "购物",
+          "buy",
+          "购买",
+          "store",
+          "商店",
+          "mall",
+          "商城",
+          "taobao",
+          "jd",
+          "amazon",
+          "aliexpress",
+          "etsy",
+          "ebay",
+          "shopify",
+          "xiaomi",
+          "apple store"
+        ]
+      },
+      {
+        "category": "社交媒体",
+        "keywords": [
+          "twitter",
+          "x.com",
+          "facebook",
+          "instagram",
+          "tiktok",
+          "linkedin",
+          "社交",
+          "分享",
+          "社区",
+          "wechat",
+          "weibo",
+          "discord",
+          "telegram",
+          "whatsapp",
+          "line",
+          "kakao",
+          "quora"
+        ]
+      },
+      {
+        "category": "办公与协作",
+        "keywords": [
+          "notion",
+          "confluence",
+          "slack",
+          "teams",
+          "jira",
+          "office",
+          "文档",
+          "协作",
+          "drive",
+          "google drive",
+          "dropbox",
+          "onedrive",
+          "monday",
+          "miro"
+        ]
+      },
+      {
+        "category": "笔记与知识库",
+        "keywords": [
+          "obsidian",
+          "evernote",
+          "note",
+          "wiki",
+          "知识库"
+        ]
+      },
+      {
+        "category": "项目与任务管理",
+        "keywords": [
+          "asana",
+          "trello",
+          "todoist",
+          "clickup",
+          "kanban",
+          "项目管理",
+          "任务"
+        ]
+      },
+      {
+        "category": "地图与导航",
+        "keywords": [
+          "google maps",
+          "maps",
+          "gaode",
+          "高德",
+          "baidu map",
+          "百度地图",
+          "openstreetmap",
+          "osm",
+          "导航"
+        ]
+      },
+      {
+        "category": "博客平台与CMS",
+        "keywords": [
+          "wordpress",
+          "ghost",
+          "blogger",
+          "cms",
+          "内容管理"
+        ]
+      },
+      {
+        "category": "数据科学与分析",
+        "keywords": [
+          "kaggle",
+          "jupyter",
+          "databricks",
+          "data science",
+          "数据科学"
+        ]
+      },
+      {
+        "category": "API测试与开发",
+        "keywords": [
+          "postman",
+          "insomnia",
+          "swagger",
+          "openapi",
+          "api 测试"
+        ]
+      },
+      {
+        "category": "邮件与通讯",
+        "keywords": [
+          "gmail",
+          "outlook",
+          "mail",
+          "邮箱",
+          "imap",
+          "smtp",
+          "message",
+          "chat",
+          "protonmail",
+          "fastmail",
+          "zoho mail",
+          "mailchimp",
+          "sendgrid"
+        ]
+      },
+      {
+        "category": "求职与招聘",
+        "keywords": [
+          "jobs",
+          "招聘",
+          "求职",
+          "career",
+          "hr",
+          "猎头",
+          "简历",
+          "indeed",
+          "glassdoor",
+          "lever",
+          "greenhouse",
+          "拉勾",
+          "boss直聘",
+          "前程无忧"
+        ]
+      },
+      {
+        "category": "金融与理财",
+        "keywords": [
+          "bank",
+          "finance",
+          "投资",
+          "基金",
+          "股票",
+          "trading",
+          "crypto",
+          "区块链",
+          "paypal",
+          "stripe",
+          "alipay",
+          "wechat pay",
+          "wise"
+        ]
+      },
+      {
+        "category": "生活服务",
+        "keywords": [
+          "生活",
+          "服务",
+          "家政",
+          "外卖",
+          "出行",
+          "住宿",
+          "旅游",
+          "uber",
+          "didi",
+          "美团",
+          "饿了么",
+          "airbnb",
+          "booking",
+          "trip",
+          "expedia"
+        ]
+      },
+      {
+        "category": "阅读与电子书",
+        "keywords": [
+          "read",
+          "阅读",
+          "电子书",
+          "epub",
+          "pdf",
+          "kindle",
+          "goodreads",
+          "gutenberg",
+          "scribd"
+        ]
+      },
+      {
+        "category": "科研与论文",
+        "keywords": [
+          "arxiv",
+          "论文",
+          "research",
+          "科研",
+          "paper",
+          "citation",
+          "nature",
+          "science",
+          "springer",
+          "ieee",
+          "acm",
+          "doi",
+          "researchgate"
+        ]
+      },
+      {
+        "category": "浏览器与扩展",
+        "keywords": [
+          "extension",
+          "插件",
+          "chrome web store",
+          "edge add-ons",
+          "浏览器",
+          "addons.mozilla.org",
+          "opera addons",
+          "chrome.google.com"
+        ]
+      },
+      {
+        "category": "摄影与照片",
+        "keywords": [
+          "photography",
+          "photo",
+          "照片",
+          "摄影",
+          "camera",
+          "拍照",
+          "拍摄",
+          "photrio",
+          "fredmiranda"
+        ]
+      },
+      {
+        "category": "图片处理与修图",
+        "keywords": [
+          "lightroom",
+          "photoshop",
+          "capture one",
+          "修图",
+          "编辑",
+          "raw",
+          "后期",
+          "色彩",
+          "darktable",
+          "affinity photo",
+          "gimp",
+          "luminar"
+        ]
+      },
+      {
+        "category": "器材与评测",
+        "keywords": [
+          "dslr",
+          "mirrorless",
+          "微单",
+          "单反",
+          "镜头",
+          "lens",
+          "评测",
+          "review",
+          "光圈",
+          "焦距",
+          "dxomark",
+          "cameralabs",
+          "the-digital-picture"
+        ]
+      },
+      {
+        "category": "图片托管与分享",
+        "keywords": [
+          "flickr",
+          "500px",
+          "unsplash",
+          "pixabay",
+          "pexels",
+          "图库",
+          "portfolio",
+          "作品集",
+          "图床",
+          "smugmug",
+          "zenfolio",
+          "imgur",
+          "pixiv"
+        ]
+      },
+      {
+        "category": "摄影品牌与官网",
+        "keywords": [
+          "canon",
+          "nikon",
+          "sonyalpha",
+          "fujifilm",
+          "leica",
+          "sigma",
+          "tamron",
+          "富士",
+          "徕卡"
+        ]
+      },
+      {
+        "category": "器材评测与资讯",
+        "keywords": [
+          "dpreview",
+          "petapixel",
+          "fstoppers",
+          "评测",
+          "测评",
+          "评估"
+        ]
+      },
+      {
+        "category": "版权素材与购买",
+        "keywords": [
+          "getty",
+          "gettyimages",
+          "shutterstock",
+          "adobe stock",
+          "istock",
+          "pond5",
+          "版权",
+          "素材购买"
+        ]
+      },
+      {
+        "category": "摄影教程与灵感",
+        "keywords": [
+          "教程",
+          "tips",
+          "composition",
+          "构图",
+          "布光",
+          "灵感",
+          "inspiration",
+          "kelbyone",
+          "phlearn",
+          "magnum photos"
+        ]
+      }
+    ],
+    "enableAI": false,
+    "lastBackupTime": null,
+    "maxCategories": 10,
+    "maxTokens": 8192,
+    "searchEnabled": true,
+    "showStats": true,
+    "wallpaperEnabled": true
+  },
+  "timestamp": "2025-10-21T07:40:55.307Z",
+  "version": "1.0"
+}
